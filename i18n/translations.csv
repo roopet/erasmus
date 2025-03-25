@@ -1,0 +1,836 @@
+"fi_FI";"en_GB";"se_SV"
+"Myönnetty rahoitus";"The funding allocated";"Beviljat bidrag"
+Kokonaissumma;"Total amount";"Den Totala mängden"
+Mediakasvatus;"Media literacy";Mediefostran
+Tilasuunnittelu;"Library space planning";Utrymmesplanering
+"Lukemisen edistäminen";"Promoting reading";Läsfrämjande
+"Palvelujen kehittäminen";"Improvement of services";"Utvecklande av tjänster"
+"Oppimisympäristö ja yhteisöllisyys";"Learning environment and communality";"Inlärningsmiljö och samverkan"
+Digitointi;Digitisation;Digitalisering
+Laitehankinnat;"Equipment acquisitions";Apparatanskaffingar
+Verkkopalvelut;"Online services";Nättjänster
+Kokoelmat;Collections;Samlingarna
+"Henkilöstön osaaminen";"Emploee development";"Personalens kunnande"
+"Strateginen kehittäminen";"Strategy development";"Strategisk utveckling"
+"Yli miljoonan";"Over a million";
+"500,000-1 miljoona";"500,000 - 1 million";
+"Valmistumisen vauhdittaminen ja 2.";;
+"asteen koulutukseen siirtymisen tukeminen";;
+"0 euroa";"0 euros";
+"< 0.01 milj. euroa";"< 0.01 milj. euros";"< 0.01 milj. euro"
+"{0} milj. euroa ({1}%)";"{0} milj. euros ({1}%)";"{0} milj. euro ({1}%)"
+"1 hanke";"1 project";"1 projekt"
+"{0} hanketta";"{0} projects";"{0} projekt"
+"1 kpl";"1 pcs.";"1 st"
+"{0} kpl";"{0} pcs.";"{0} st"
+"ei uusia työpaikkoja";"no new jobs";
+"{0} uutta työpaikkaa";"{0} new jobs";
+"ei uusia yrityksiä";"no new ";
+"{0} uutta yritystä";"{0} new enterprices";
+"ei osallistuneita yrityksiä";"no participant enterprices";
+"{0} osallistunutta yritystä";"{0} participant enterprices";
+"ei osallistuneita organisaatioita";"no participant organizations";
+"{0} osallistunutta organisaatiota";"{0} participant organizations";
+Teemoittain;Themes;Tema
+Maakunnittain;Region;Landskap
+Kunnittain;Municipality;Kommun
+Vaikutusalueittain;Area;Influensområde
+Kohderyhmittäin;"Target group";målgruppsvis
+Avi-alueittain;"Regional state administrative agency area (AVI)";RFV-område
+Vuosittain;Year;År
+Rahoittajittain;"Funding body";Finansiär
+"Koon mukaan";Size;Storlek
+Yhteensä;Total;"Den totala mängden"
+Uusimaa;;Nyland
+Pohjois-Pohjanmaa;"Northern Ostrobothnia";"Norra Österbotten"
+Lappi;Lapland;Lappland
+Varsinais-Suomi;"Southwest Finland";"Egentliga Finland"
+Pohjanmaa;Ostrobothnia;Österbotten
+Etelä-Savo;"Southern Savonia";"Södra Savolax"
+Pohjois-Karjala;"North Karelia";"Norra Karelen"
+Satakunta;Satakunta;
+Etelä-Pohjanmaa;"Southern Ostrobothnia";"Södrä Österbotten"
+Pirkanmaa;Pirkanmaa;Birkaland
+Pohjois-Savo;"Northern Savonia";"Norra Savolax"
+Kymenlaakso;;Kymmenedalen
+Kanta-Häme;"Tavastia Proper";"Egentliga Tavastland"
+Keski-Suomi;"Central Finland";"Mellersta Finland"
+Etelä-Karjala;"South Karelia";"Södra Karelen"
+Uusimaa-Keskuskirjasto;"Uusimaa Central Library";Nyland-Centralbiblioteket
+Päijät-Häme;"Päijänne Tavastia";Päijänne-Tavastland
+Keski-Pohjanmaa;"Central Ostrobothnia";"Mellesta Österbotten"
+Kainuu;;
+kunnat;municipalities;kommuner
+maakunta;region;landskap
+"kunnan- tai kaupunginosat";"parts of municipality or city";"kommun- eller stadsdelar"
+valtakunnallinen;nationwide;riksomfattande
+seutukunnat;sub-regions;region
+ylimaakunnallinen;"several regions";landskapsöverskridande
+kansainvälinen;international;internationell
+"Kirjaston asiakkaat";"All library users";"Bibliotekets kunder"
+"Kirjaston henkilökunta";"Library staff";"Bibliotekets personal"
+"Lapset (alle 13 v.)";"Children (under 13 years)";"Barn (under 13 år)"
+"Nuoret (13-19 v.)";"Adolescents (13-19 years)";"Unga (13-19 år)"
+"Nuoret (13-19  v.)";"Adolescents (13-19 years)";"Unga (13-19 år)"
+Ikääntyneet;"Elderly people";Seniorer
+"Kirjaston ei-käyttäjät";"Library non-users";"Bibliotekets icke-användare"
+"Tietty ammattiryhmä (esim. opettajat)";"Specific occupational groups (e.g. teachers)";"En viss yrkesgrupp (t.ex. lärare)"
+Sidosryhmät;"Interest groups";Intressentgrupper
+Erityisryhmät;"Special groups";Specialgrupper
+Lapsiperheet;"Families with children";Barnfamiljer
+Maahanmuuttajat;Immigrants;Invandrare
+"Nuoret aikuiset (19-29 v.)";"Young adults (19-29 years)";"Unga vuxna (19-29 år)"
+"Työikäinen väestö";"Working age people";"Befolkning i arbetsför ålder"
+Työttömät;"Unemployed people";Arbetslösa
+Miehet;Men;Män
+Naiset;Women;Kvinnor
+Etelä-Suomi;"Southern Finland";"Södra Finland"
+"Länsi-ja Sisä-Suomi";"Western and Inland Finland";"Västra och Inre Finland"
+"Länsi- ja Sisä-Suomi";"Western and Inland Finland";"Västra och Inre Finland"
+Itä-Suomi;"Eastern Finland";"Östra Finland"
+Lounais-Suomi;"Southwest Finland";"Sydvästra Finland"
+Pohjois-Suomi;"Northern Finland";"Norra Finland"
+ELY;"Centre for Economic Development, Transport and the Environment";NTM
+"ELY / AVI";"Centre for Economic Development, Transport and the Environment";NTM
+OKM;"Ministry of Education and Culture";"Undervisnings- och kulturministeriet"
+"Opetus- ja kulttuuriministeriö";"Ministry of Education and Culture";"Undervisnings- och kulturministeriet"
+suomenkielinen;Finnish;finskspråkig
+fi;Finnish;finskspråkig
+sv;Swedish;svenskspråkig
+ruotsinkielinen;Swedish;svenskspråkig
+"Hankerekisterin visualisointi - Hyvät käytänteet";"Library project register visualisation - Good practices";
+"Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Tämän visualisoinnin avulla voit tutustua kirjastojen erilaisiin hyviin käytänteisiin.";"Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore the public libraries good practices.";"Välkommen till visualiseringen av projektregistret för de allmänna biblioteken. Med hjälp av den här visualiseringen kan du bekanta dej med olika exempel på god praxis."
+"Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Visualisoinnin avulla voit tutustua kirjastojen kehittämishankkeisiin.";"Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore the public library development projects in Finland. ";"Välkommen till visualiseringen av projektregistret för de allmänna biblioteken. Med hjälp av visualiseringen kan du bekanta dej med bibliotekens utvecklingsprojekt."
+"Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Tämän visualisoinnin avulla voit tutustua niihin haettuihin kehittämishankkeisiin, joille ei myönnetty tukea.";"Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore those public library development projects, that did not receive funding.";"Välkommen till visualiseringen av projektregistret för de allmänna biblioteken. Med hjälp av den här visualiseringen kan du bekanta dej med sådana projekt som inte beviljats understöd."
+"Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Tämän visualisoinnin avulla voit tutustua vuoden 2015 hakukierroksella jätettyihin kehittämishankeavustuksiin.";"Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore the autumn 2015 submitted funding applications for public library development projects in Finland.";"Välkommen till visualiseringen av projektregistret för de allmänna biblioteken. Med hjälp av den här visualiseringen kan du bekanta dig med de projektansökningar som lämnats in under ansökningsomgången hösten 2015."
+"Yksi pallo edustaa yhtä hanketta. Pallon koko kertoo, kuinka paljon avustusta hankkeelle on haettu. Viemällä hiirenosoittimen pallon päälle saa hankkeesta lisätietoa. Palloa klikkaamalla pääsee hankkeen nettisivuille.";"One sphere represents one project. The size of the sphere indicates the amount of funding applied for the project. For more information on the project, move cursor above the sphere. Click the sphere to move to a specific project website (only in Finnish/Swedish).";"Varje cirkel representerar ett projekt. Storleken på cirkeln visar hur stort bidrag projektet har beviljats. Genom att föra muspekaren över en cirkel får du mera information om projektet. Genom att klicka på cirkeln kommer du till projektets nätsidor. "
+"Yksi pallo edustaa yhtä hyvää käytäntöä. Viemällä hiirenosoittimen pallon päälle saa käytänteestä lisätietoa. Palloa klikkaamalla pääsee käytänteen nettisivuille.";"One sphere represents one good practice. For more information on the practice, move cursor above the sphere. Click the sphere to move to a specific pracice website (only in Finnish/Swedish).";"Varje cirkel representerar en god praxis. Genom att föra muspekaren över en cirkel får du mera information om praxisen. Om du klickar på cirkeln kommer du till en nätsida där praxisen beskrivs."
+"Hyvien käytänteiden jakaumaa voi muuttaa yläpalkin ""tarkastele""-valikoista. Väritystä voi muuttaa vasemmassa sivupalkissa olevasta valikosta. Myös käytänteiden kohderyhmiä voi tarkastella ylä-valikossa olevasta pudotusvalikosta. Etsi-toiminnolla voi etsiä hyvää käytäntöä nimeltä.";"The distribution of the practices can be changed by clicking the ""view by"" buttons on the top menu bar. Colours can be changed from the menu on the left. The practices distribution can be viewed also by target groups by choosing a group from the drop-down menu on the top menu bar.";"I ""Sortera""-menyn i den övre balken kan du välja olika kriterier enligt vilka du kan sortera de goda praxisarna. I menyn i den vänstra balken kan du färgsätta cirklarna enligt olika kriterier. I rullgardinsmenyn i den övre balken kan du välja att visa exempel på god praxis riktade till olika målgrupper. Med hjälp av sökfunktionen i den övre balken kan du söka praxis enligt praxisens namn."
+"Hankkeiden jakaumaa voi muuttaa yläpalkin ""tarkastele""-valikoista. Väritystä voi muuttaa vasemmassa sivupalkissa olevasta valikosta. Myös Hankkeiden kohderyhmiä voi tarkastella ylä-valikossa olevasta pudotusvalikosta. Etsi-toiminnolla voi etsiä hanketta nimeltä.";"The distribution of the projects can be changed by clicking the ""view by"" buttons on the top menu bar. Colours can be changed from the menu on the left. The project distribution can be viewed also by target groups by choosing a group from the drop-down menu on the top menu bar.";"I Sortera-menyn i den övre balken kan du välja olika kriterier enligt vilka du kan sortera projekten. I menyn i den vänstra balken kan du färgsätta cirklarna enligt olika kriterier. I rullgardinsmenyn i den övre balken kan du välja att visa projekt riktade till olika målgrupper. Med hjälp av sökfunktionen i den övre balken kan du söka projekt enligt projektets namn."
+"Kuinka visualisointi toimii";"How does the visualisation work?";"Hur visualiseringen fungerar"
+"Yksi pallo edustaa yhtä hanketta. Pallon koko kertoo, kuinka paljon avustusta hankkeelle on myönnetty. Viemällä hiirenosoittimen pallon päälle saa hankkeesta lisätietoa. Palloa klikkaamalla pääsee hankkeen nettisivuille.";"One sphere represents one project. The size of the sphere indicates the amount of funding granted to the project. For more information on the project, move cursor above the sphere. Click the sphere to move to a specific project website (only in Finnish/Swedish).";"Varje cirkel representerar ett projekt. Storleken på cirkeln visar hur stort bidrag som har ansökts för projektet. Genom att föra muspekaren över en cirkel får du mera information om projektet. Genom att klicka på cirkeln kommer du till projektets nätsidor."
+"Hankkeiden jakaumaa voi muuttaa yläpalkin ""tarkastele""-valikoista. Väritystä voi muuttaa vasemmassa sivuapalkissa olevasta valikosta. Myös Hankkeiden kohderyhmiä voi tarkastella ylä-valikossa olevasta pudotusvalikosta. Etsi-toiminnolla voi etsiä hanketta nimeltä.";"The distribution of the projects can be changed by clicking the ""view by"" buttons on the top menu bar. Colours can be changed from the menu on the left. The project distribution can be viewed also by target groups by choosing a group from the drop-down menu on the top menu bar.";
+"Visualisointi ei valitettavasti toimi vanhemmilla internet-selaimilla (esim. IE8 ja sitä vanhemmat).";"The visualisation does not unfortunately work on older internet-browsers (e.g. IE8 and older).";"Visualiseringen fungerar tyvärr inte i äldre webbläsare (t. ex. IE8 och äldre)"
+"Pylväskuviossa näytettävän jakauman voi valita yläpalkin ""tarkastele""-valikoista. Palkkien väritystä voi muuttaa vasemmassa sivupalkissa olevasta valikosta. Suodattimista on mahdollista rajata kuvioon laskettavien hankkeiden määrää.";"Shown bars in the barchart can be changed by clicking the ""view by"" buttons on the top menu bar. Colours can be changed from the menu on the left. Calculated projects can be filtered from the filters-menu";
+"Voit myös vaihtaa palkkien asettelua sivupalkin painikkeista ""pinottu"" ja ""rinnakkain"". Palkkikaavion näkymää voi myös suurentaa ""maalaamalla"" palkkeja pystysuoraan.";"The arranging of the bars can be changed from the ""stacked"" and ""normal"" -buttons. Barchart can zoomed by ""painting"" the bars vertically.";
+"Hankkeiden jakaumaa voi muuttaa ylälaidan ""tarkastele""-valikoista. Väritystä voi muuttaa vasemmassa sivupalkissa olevasta valikosta. Suodattimista on mahdollista rajata näytettävien hankkeiden määrää. Myös hankkeiden kohderyhmiä voi tarkastella sivupalkissa olevasta pudotusvalikosta. Etsi-toiminnolla voi etsiä hanketta nimeltä.";"The distribution of the projects can be changed by clicking the ""view by"" buttons on the top menu bar. Colours can be changed from the menu on the left. The project distribution can be viewed also by target groups by choosing a group from the drop-down menu. Shown projects can be filtered from the filters-menu. Search-function allows to search projects by their name.";
+"Valitse visualisointi";"Select chart";"Välj visualisering"
+Pallot;Bubblechart;
+Tarkastele;"View by";"Sortera enligt"
+Palkit;Barchart;
+"Hankerekisterin<b> Visualisointi </b>";"Project register <b>visualisation</b>";"Visualisering av projektregistret"
+"Paluu hankerekisteriin";"Return to project register";"Till projektregistret"
+"Vaihda väritystä";"Change color";"Färgsätt enligt"
+Suodattimet;Filters;Filter
+"Tutustu myös muihin visualisointeihin";"Visit also other visualisations";"Bekanta dej också med andra visualiseringar"
+Espoo;;Esbo
+Hanko;;Hangö
+Helsinki;;Helsingfors
+Vantaa;;Vanda
+Kaskinen;;Kaskö
+Kauniainen;;Grankulla
+Kirkkonummi;;Kyrkslått
+Kokkola;;Karleby
+Lapinjärvi;;Lappträsk
+Loviisa;;Lovisa
+Lohja;;Lojo
+Myrskylä;;Mörskom
+Pyhtää;;Pyttis
+Porvoo;;Borgå
+Sipoo;;Sibbo
+Siuntio;;Sjundeå
+Turku;;Åbo
+Vaasa;;Vasa
+Inkoo;;Ingå
+Kemiönsaari;;Kimitoön
+Kristiinankaupunki;;Kristinestad
+Kronoby;;Kruunupyy
+Maalahti;;Malax
+Mustasaari;;Korsholm
+Parainen;;Pargas
+Pietarsaari;;Jakobstad
+"Pedersören kunta";;Pedersöre
+Raasepori;;Raseborg
+Uusikaarlepyy;;Nykarleby
+Vöyri;;Vörå
+Luoto;;Larsmo
+Maarianhamina;;Mariehamn
+Närpiö;;Närpes
+Enontekiö;;Enontekis
+Eurajoki;;Euraåminne
+Hailuoto;;Karlö
+Hamina;;Fredrikshamn
+Hyvinkää;;Hyvinge
+Hämeenkyrö;;Tavastkyro
+Hämeenlinna;;Tavastehus
+Iisalmi;;Idensalmi
+Ikaalinen;;Ikalis
+Ilomantsi;;Ilomants
+Inari;;Enare
+Isojoki;;Storå
+Isokyrö;;Storkyro
+Jokioinen;;Jockis
+Joroinen;;Jorois
+Järvenpää;;Träskända
+Kaarina;;"S:t Karins"
+Kajaani;;Kajana
+Karijoki;;Bötom
+Karkkila;;Högfors
+Kaustinen;;Kaustby
+Kerava;;Kervo
+Kokemäki;;Kumo
+Kustavi;;Gustavs
+Köyliö;;Kjulo
+Lahti;;Lahtis
+Laihia;;Laihela
+Lappeenranta;;Villmanstrand
+Lapua;;Lappo
+Lieto;;Lundo
+Liminka;;Limingo
+Merikarvia;;Sastmola
+Mikkeli;;"S:t Michel"
+Naantali;;Nådendal
+Nousiainen;;Nousis
+Oulu;;Uleåborg
+Paimio;;Pemar
+Pirkkala;;Birkala
+Pomarkku;;Påmark
+Pori;;Björneborg
+Pornainen;;Borgnäs
+Raahe;;Brahestad
+Raisio;;Reso
+Rauma;;Raumo
+Sauvo;;Sagu
+Savonlinna;;Nyslott
+Taivassalo;;Tövsala
+Tampere;;Tammerfors
+Teuva;;Östermark
+Tornio;;Torneå
+Tuusula;;Tusby
+Ulvila;;Ulvsby
+Uusikaupunki;;Nystad
+Veteli;;Vetil
+Vihti;;Vichtis
+Virrat;;Virdois
+Ylitornio;;Övertorneå
+Ähtäri;;Etseri
+"Toteuttajan nimi";"Host institution";"Projekt utförs av"
+Teema;Theme;Tema
+Maakunta;Region;Landskap
+Kunta;Munivipality;Kommun
+Vaikutusalue;Area;Influensområde
+Kohderyhmät;"Target groups";Målgrupper
+Rahoittaja;"Funding body";Finansiär
+Vuosi;Year;År
+"Myönnetty avustus";"Awarded funds";"Beviljat bidrag"
+"Haettu avustus";"Applied funding";"Ansökt bidrag"
+"Oma rahoitus";"Own funding";"Egen finansiering"
+"Tutustu hankkeeseen tarkemmin";"Read more about project";"Projekt webbsidan"
+Kieli;Language;Språk
+käytännettä;practices;praxis
+"Hyvät käytänteet";"Good practises";"God praxis"
+"Hankkeet, joille ei myönnetty tukea";"Projects that did not receive funding";"Projekt, som inte beviljats understöd"
+"Hyväksytyt hankkeet";"Approved projects";"Godkända projekt"
+"Uudet hankehakemukset";"New project funding applications";"Nya projektansökningar"
+"Hankerekisterin visualisointi - Hankkeet, joille ei myönnetty rahoitusta";"Project register visualisation - Projects that did not receive funding";"Visualisering av projektregistret - Projekt, som inte beviljats understöd"
+"Hankerekisterin visualisointi";"Project register visualisation";
+"Hankerekisterin visualisointi - Uudet hakemukset";"Project register visualisation - New project funding applications ";
+"Näytä info";"Show info";"Visa info"
+"Piilota info";"Hide info";"Göm info"
+"Lähetä palautetta";"Give feedback";"Skicka respons"
+"Tarkastele kohderyhmittäin";"View by target group";"Granska målgruppsvis"
+"Etsi hanketta nimeltä";"Search project by name";"Sökt projekt enligt namn"
+Lataa;Export;Ladda
+"Tulosta kaavio";"Print chart";"Skriva ut"
+"Lataa PNG-kuva";"Download PNG-image";"Ladda PNG-bild"
+"Lataa JPEG-kuvat";"Download JPEG-image";"Ladda JPEG-bild"
+"Lataa PDF-dokumentti";"Download PDF-document";"Ladda PDF"
+"Lataa SVG-vektorikuva";"Download SVG-vector-image";"Ladda SVG-vektor-bild"
+"Lataa CSV-tiedosto";"Download CSV-file";"Ladda CSV-fil"
+"Lataa XLS-tiedosto";"Download XLS-file";"Download XLS-fil"
+Aluehallintovirasto;"Regional State Administrative Agency Area (Avi)";RFV-område
+Toteuttaja;"Host institution";Bibliotek
+Pinottu;Stacked;Stapla
+Rinnakkain;Normal;Normal
+"Vaihda palkkien asettelua";"Change chart layout";"Change chart layout"
+Tietokanta;Database;Databas
+"(yhteensä {0} €)";"(total {0} €)";"(sammanlagd {0} €)"
+Info;Info;Info
+Väriselite;Legend;Legend
+"ja {0} muuta";" and {0} anothers";
+"Valitse kaikki";"Select all";
+"Poista kaikki";"Unselect all";
+"Syötä hakusana";Filter;
+Visualisointi;Visualisation;
+Etsi;Search;
+"Rajaa hankkeiden määrää";"Filter projects";
+"Akaan kaupunginkirjasto";;
+"Alajärven kaupunki/Alajärven kaupunginkirjasto";;
+"Alajärven kaupunki/Järvi-Pohjanmaan kirjastot: Alajärvi,Soini,Vimpeli";;
+"Alajärven kaupunki/YTY -kirjastot: Alajärvi (sisältää Lehtimäen), Evijärvi, Lappajärvi, Perho, Soini, Veteli ja Vimpeli";;
+"Alavieskan kunnankirjasto";;
+"Alavieskan kunta/Kirjasto";;
+"Alavuden kaupunginkirjasto";;
+"Asikkalan kirjasto";;
+"Askolan kunnankirjasto";;
+"Auran kirjasto";;
+"Auran kirjasto";;
+"Enonkosken kunnankirjasto";;
+"Enontekiön kunnankirjasto";;
+"Esbo stadsbibliotek";;
+"Espoon kaupunginkirjasto";;
+"Espoon kaupunginkirjasto - Entressen kirjasto";;
+"Espoon kaupunginkirjasto - Kirjasto Omena";;
+"Espoon kaupunginkirjasto - Sellon kirjasto";;
+"Espoon kaupunginkirjasto - Tapiolan kirjasto";;
+"Espoon kaupunginkirjasto - kirjastoauto";;
+"Espoon kaupunginkirjasto / Entressen kirjasto";;
+"Espoon kaupunginkirjasto. Sellon toimipiste";;
+"Espoon kaupunginkirjasto/Hakeutuva toiminta";;
+"Euran kunnankirjasto";;
+"Forssan kaupunginkirjasto";;
+"Haapajärven kirjasto";;
+"Haapaveden kirjasto";;
+"Hailuodon kunta / kunnankirjasto";;
+"Halsuan kunnankirjasto";;
+"Haminan kaupunginkirjasto";;
+"Hangon kaupunginkirjasto";;
+"Hangon kaupunginkirjasto - Hangö stadsbibliotek";;
+"Hankasalmen kirjasto";;
+"Harjavallan kaupunginkirjasto";;
+"Hartolan kunnankirjasto";;
+"Hattulan kunnankirjasto";;
+"Heinolan kaupunginkirjasto";;
+"Heinäveden kunnankirjasto";;
+"Helsingin kaupunginkirjasto";;
+"Honkajoen kunnankirjasto";;
+"Huittisten kaupunginkirjasto";;
+"Hyrynsalmen kirjasto";;
+"Hyrynsalmen kunta / kunnankirjasto";;
+"Hyvinkään kaupunginkirjasto";;
+"Hyvinkään kaupunginkirjasto";;
+"Hämeenkyrön kirjasto";;
+"Hämeenlinnan kaupunginkirjasto";;
+"Hämeenlinnan kaupunginkirjasto - Hämeen maakuntakirjasto";;
+"Hämeenlinnan kaupunginkirjasto-Hämeen maakuntakirjasto";;
+"Iin kunta /Ii-instituutti -liikelaitos /Pääkirjasto";;
+"Iisalmen kaupunginkirjasto";;
+"Iitin kunnankirjasto";;
+"Ikaalisten kaupunginkirjasto";;
+"Ilmajoen kunnankirjasto";;
+"Ilomantsin kunnankirjasto";;
+"Imatran kaupunginkirjasto";;
+"Inarin kunnankirjasto";;
+"Ingå kommunbibliotek";;
+"Isojoen kirjasto";;
+"Isojoen kunnankirjasto";;
+"Isonkyrön kunnankirjasto";;
+"JJR-kirjasto, Juvan kirjasto";;
+"Jalasjärven kunnankirjasto";;
+"Janakkalan kirjasto";;
+"Joensuun seutukirjasto - Pohjois-Karjalan maakuntakirjasto";;
+"Jokelan kirjasto";;
+"Jokioisten kunnankirjasto";;
+"Joutsan kunnankirjasto";;
+"Juuan kunnankirjasto";;
+"Jyväskylän kaupunginkirjasto - Keski-Suomen maakuntakirjasto";;
+"Jyväskylän kaupunginkirjasto – Keski-Suomen maakuntakirjasto";;
+"Jämsän kaupunginkirjasto";;
+"Kaarinan kaupunginkirjasto";;
+"Kaavin kirjasto";;
+"Kajaanin kaupunginkirjasto - Kainuun maakuntakirjasto";;
+"Kalajoen kaupunginkirjasto";;
+"Kalajoen kaupunki/kaupunginkirjasto";;
+"Kangasalan kunnankirjasto";;
+"Kangasniemen kunnankirjasto";;
+"Kankaanpään kaupunginkirjasto";;
+"Kannonkosken kunnankirjasto";;
+"Kannuksen kaupunginkirjasto";;
+"Karijoen kunnankirjasto";;
+"Karkkilan kaupunginkirjasto";;
+"Karleby stadsbibliotek-landskapsbibliotek";;
+"Kaskisten kaupunginkirjasto";;
+"Kauhajoen kaupunginkirjasto";;
+"Kauhavan kaupunginkirjasto";;
+"Kaustisen kirjasto";;
+"Keiteleen ja Pielaveden kirjastot";;
+"Keiteleen ja Pielaveden kunnankirjastot";;
+"Keiteleen kunnankirjasto";;
+"Kemijärven kaupunginkirjasto";;
+"Kemin kaupunginkirjasto";;
+"Keminmaan kunnankirjasto";;
+"Kempeleen kirjasto";;
+"Kempeleen kunta/ kirjasto";;
+"Keravan kaupunginkirjasto";;
+"Kerimäen kirjasto";;
+"Keuruun kaupunginkirjasto";;
+"Kihniön kunnankirjasto";;
+"Kimitoöns kommunbibliotek";;
+"Kirkkonummen kunnankirjasto";;
+"Kiteen kaupunginkirjasto";;
+"Kittilän kunnankirjasto";;
+"Kiuruveden kaupunginkirjasto";;
+"Koillis-Savon aluekirjasto";;
+"Kokemäen kaupunginkirjasto";;
+"Kokkolan kaupunginkirjasto - maakuntakirjasto";;
+"Kokkolan kaupunginkirjasto-maakuntakirjasto";;
+"Kokkolan kaupunginkirjato-maakuntakirjasto";;
+"Kolarin kunnankirjasto";;
+"Korsholms bibliotek";;
+"Korsnäs kommunbibliotek";;
+"Kotkan kaupunginkirjasto";;
+"Kouvolan kaupunginkirjasto";;
+"Kouvolan kaupunginkirjasto - maakuntakirjasto";;
+"Kouvolan kaupunginkirjasto-maakuntakirjasto";;
+"Kronoby kommunbibliotek";;
+"Kuhmoisten kunnakirjasto";;
+"Kuhmon kaupunginkirjasto";;
+"Kuopion kaupunginkirjasto";;
+"Kuopion kaupunginkirjasto - Pohjois-Savon maakuntakirjasto";;
+"Kuopion kaupunginkirjasto - Pohjois-savon maakuntakirjasto";;
+"Kuortaneen kunnankirjasto";;
+"Kurikan kaupunginkirjasto";;
+"Kurikan kaupunginkirjasto/Jalasjärven kirjasto";;
+"Kustavin kunnankirjasto";;
+"Kuusamon kaupunginkirjasto";;
+"Kyyjärven kunnankirjasto";;
+"Kärsämäen kirjasto";;
+"Lahden kaupunginkirjasto-maakuntakirjasto";;
+"Laihian kirjasto";;
+"Lapin maakuntakuntakirjasto - Rovaniemen kaupunginkirjasto";;
+"Lapinjärven kirjasto";;
+"Lapinlahden kunnankirjasto";;
+"Lappeenrannan maakuntakirjasto";;
+"Lapuan kaupunginkirjasto";;
+"Larsmo kommunbibliotek";;
+"Laukaan kunnankirjasto";;
+"Lempäälän kunnankirjasto";;
+"Leppävirran kunnankirjasto";;
+"Liedon kunnankirjasto";;
+"Lieksan kaupunginkirjasto";;
+"Limingan kirjasto";;
+"Limingan kunnankirjasto";;
+"Lohjan kaupunginkirjasto";;
+"Lohjan kaupunginkirjato";;
+"Loimaan kaupunginkirjasto";;
+"Lopen kunnankirjasto";;
+"Loviisan kaupunginkirjasto";;
+"Luhangan kunnankirjasto";;
+"Lumijoen kirjasto Hiidenkivi";;
+"Lumijoen kunnankirjasto";;
+"Luumäen kunnankirjasto";;
+"Luvian kunnankirjasto";;
+"Marttilan kunnankirjasto";;
+"Maskun kunnankirjasto";;
+"Merijärven kunnankirjasto";;
+"Mikkelin kaupunginkirjasto";;
+"Mikkelin kaupunginkirjasto - Etelä-Savon maakuntakirjasto";;
+"Muhoksen kunnankirjasto";;
+"Muonion kunnankirjasto";;
+"Mynämäen kunnankirjasto";;
+"Myrskylän kirjasto";;
+"Mäntsälän kirjasto";;
+"Mänttä-Vilppulan kaupunginkirjasto";;
+"Mäntyharjun kunnankirjasto";;
+"Naantalin kaupunginkirjasto";;
+"Nakkilan kunnankirjasto";;
+"Nilsiän kirjasto";;
+"Nivalan kaupunginkirjasto";;
+"Nivalan kaupunginkirjasto / Tiekkö-kirjastot";;
+"Nokian kaupunginkirjasto";;
+"Nousiaisten kunnankirjasto";;
+"Nurmeksen kaupunginkirjasto";;
+"Nurmijärven kirjasto";;
+"Nurmijärven kunnankirjasto";;
+"Nykarleby stadsbibliotek";;
+"Orimattilan kaupunginkirjasto";;
+"Oripään kirjasto";;
+"Oriveden kaupunginkirjasto";;
+"Oulaisten kaupunginkirjasto";;
+"Oulaisten kaupunki/ kaupunginkirjasto";;
+"Oulun kaupunginkirjasto-maakuntakirjasto";;
+"Padasjoen kunnankirjasto";;
+"Paimion kaupunginkirjasto";;
+"Paltamon kunnankirjasto";;
+"Paraisten kirjasto";;
+"Pargas bibliotek";;
+"Pargas stadsbibliotek";;
+"Pargas stadsbibliotek / Blankabiblioteken";;
+"Pargas stadsbibliotek / Iniö och Utö bibliotek";;
+"Pargas stadsbibliotek / Pargas bibliotek";;
+"Parikkalan kirjasto";;
+"Parkanon kaupunginkirjasto";;
+"Pedersöre kommunbibliotek";;
+"Pieksämäen kaupunginkirjasto";;
+"Pirkkalan kunnankirjasto";;
+"Pomarkun kunnankirjasto";;
+"Porin kaupunginkirjasto - Satakunnan maakuntakirjasto";;
+"Pornaisten kunnankirjasto";;
+"Porvoon kaupunginkirjasto - Uudenmaan maakuntakirjasto";;
+"Posion kunnankirjasto";;
+"Pudasjärven kaupuginkirjasto";;
+"Pudasjärven kaupunginkirjasto";;
+"Pukkilan kunnankirjasto";;
+"Punkaharjun kirjasto";;
+"Punkalaitumen kirjasto";;
+"Pyhäjoen kunnankirjasto";;
+"Pyhäjärven kirjasto";;
+"Pyhännän kunnankirjasto";;
+"Pälkäneen kunnankirjasto";;
+"Pöytyän kirjasto";;
+"Raahen kaupunginkirjasto";;
+"Raision kaupunginkirjasto";;
+"Rantsilan kirjasto";;
+"Ranuan kunnankirjasto";;
+"Raseborgs stadsbibliotek";;
+"Raseborgs stadsbibliotek/ Ekenäs bibliotek";;
+"Rauman kaupunginkirjasto";;
+"Rautalammin kunnankirjasto";;
+"Rautavaaran kunnankirjasto";;
+"Riihimäen kaupunginkirjasto";;
+"Ristijärven kirjasto";;
+"Rovaniemen kaupunginkirjasto - Lapin maakuntakirjasto";;
+"Rovaniemen kaupunginkirjasto/Suomen saamelainen erikoiskirjasto";;
+"Ruoveden kunnankirjasto";;
+"Rääkkylän kirjasto";;
+"Saarijärven kaupunginkirjasto";;
+"Sallan kunnankirjasto";;
+"Sastamalan kaupunginkirjasto";;
+"Sauvon kirjasto";;
+"Sauvon kunnankirjaston asiakaspalvelutoimintojen kehittäminen";;
+"Savonlinnan kaupunginkirjasto";;
+"Seinäjoen kaupunginkirjasto";;
+"Seinäjoen kaupunginkirjasto /Ylistaron kirjasto";;
+"Seinäjoen kaupunginkirjasto-maakuntakirjasto";;
+"Seinäjoen kaupunginkirjasto/ Ylistaron kirjasto";;
+"Sibbo kommunbibliotek/Sibbo huvudbibliotek";;
+"Siikaisten kunnankirjasto";;
+"Siilinjärven kunnankirjasto";;
+"Simon kunnankirjasto";;
+"Sipoon kunnankirjasto";;
+"Sipoon kunnankirjasto / Söderkullan kirjasto";;
+"Someron kaupunginkirjasto";;
+"Sompion kirjasto";;
+"Sonkajärven kunnankirjasto";;
+"Sonkajärven kunnankirjasto, Iisalmen kaupunginkirjasto, Vieremän kunnankirjasto";;
+"Sotkamon kunnankirjasto";;
+"Stadsbiblioteket i Jakobstad / Fredrikabiblioteken";;
+"Stadsbiblioteket i Kristinestad";;
+"Stadsbiblioteket i Kristinestad Kristiinankaupungin kirjasto";;
+"Suomussalmen kunnankirjasto";;
+"Sysmän kunnankirjasto";;
+"Söderkullan kirjasto";;
+"Taivalkosken kirjasto";;
+"Taivalkosken kunnankirjasto";;
+"Tampereen kaupunginkirjasto - Pirkanmaan maakuntakirjasto";;
+"Tampereen kaupunginkirjasto – Pirkanmaan maakuntakirjasto";;
+"Tarvasjoen kirjasto";;
+"Tervolan kunnankirjasto";;
+"Teuvan kunnankirjasto";;
+"Toenperän kirjasto";;
+"Toenperän kirjasto, Juvan kirjasto";;
+"Tohmajärven kunnankirjasto";;
+"Toholammin kunnankirjasto";;
+"Toivakan kunnankirjasto";;
+"Tornion kaupunginkirjasto";;
+"Tornionlaakson kirjasto";;
+"Turun kaupunginkirjasto";;
+"Tuusulan kunnankirjasto";;
+"Tyrnävän kunnankirjasto";;
+"Urjalan kirjasto";;
+"Urjalan kunnankirjasto";;
+"Utsjoen kunnankirjasto";;
+"Uudenkaupungin kaupunginkirjasto";;
+"Uuraisten kunnankirjasto";;
+"Uuraisten kunnankirjasto, (Petäjäveden kunnankirjasto)";;
+"Uuraisten kunnankirjasto, Luhangan kunnankirjasto";;
+"Uuraisten kunnankirjasto, Saarijärven kaupunginkirjasto";;
+"Vaalan kirjasto";;
+"Vaasan kaupunginkirjasto - maakuntakirjasto";;
+"Vaasan kaupunginkirjasto-maakuntakirjasto";;
+"Valkeakosken kaupunginkirjasto";;
+"Valtimon kunnankirjasto";;
+"Vantaan kirjasto- ja tietopalvelut";;
+"Varkauden kaupunginkirjasto";;
+"Vehmaan kunnankirjasto";;
+"Vesannon kunnankirjasto";;
+"Vesilahden kirjasto";;
+"Vetelin kunnankirjasto";;
+"Vieremän kunnankirjasto";;
+"Vihdin kunnankirjasto";;
+"Vihdin kunnankirjasto";;
+"Viitasaaren ja Pihtiputaan kirjastot";;
+"Virolahden kunnankirjasto";;
+"Virtain kaupunginkirjasto";;
+"Vörå kommunbibliotek";;
+"Wiitaunionin aluekirjasto";;
+"Yleisten kirjastojen keskuskirjasto";;
+"Ylivieskan kaupunginkirjasto";;
+"Ylöjärven kaupunginkirjasto";;
+"Ähtärin kaupunginkirjasto";;
+"Äänekosken kaupunginkirjasto";;
+Helsinki-Keskuskirjasto;;
+Haapavesi;;
+Honkajoki;;
+Kankaanpää;;
+Kemi;;
+Kittilä;;
+Kolari;;
+Posio;;
+Rovaniemi;;
+Sodankylä;;
+Valtimo;;
+Alavieska;;
+Alavus;;
+Asikkala;;
+Askola;;
+Aura;;
+Forssa;;
+Haapajärvi;;
+Hankasalmi;;
+Harjavalta;;
+Hattula;;
+Heinola;;
+Heinävesi;;
+Huittinen;;
+Imatra;;
+Jalasjärvi;;
+Janakkala;;
+Joensuu;;
+Juuka;;
+Jyväskylä;;
+Jämsä;;
+Kaavi;;
+Kalajoki;;
+Kangasala;;
+Kangasniemi;;
+Kannonkoski;;
+Kauhajoki;;
+Kauhava;;
+Keitele;;
+Kempele;;
+Kiuruvesi;;
+Korsnäs;;
+Kotka;;
+Kouvola;;
+Kuhmo;;
+Kuopio;;
+Kurikka;;
+Kuusamo;;
+Kärsämäki;;
+Lapinlahti;;
+Laukaa;;
+Lieksa;;
+Luumäki;;
+Luvia;;
+Masku;;
+Muonio;;
+Mäntsälä;;
+Mäntyharju;;
+Nakkila;;
+Nivala;;
+Nokia;;
+Orimattila;;
+Orivesi;;
+Oulainen;;
+Paltamo;;
+Parkano;;
+Pyhäjoki;;
+Pyhäntä;;
+Pälkäne;;
+Pöytyä;;
+Ranua;;
+Rääkkylä;;
+Saarijärvi;;
+Salla;;
+Seinäjoki;;
+Siikainen;;
+Siilinjärvi;;
+Somero;;
+Sonkajärvi;;
+Tarvasjoki;;
+Tervola;;
+Tohmajärvi;;
+Toholampi;;
+Toivakka;;
+Urjala;;
+Uurainen;;
+Valkeakoski;;
+Varkaus;;
+Vehmaa;;
+Viitasaari;;
+Ylivieska;;
+Äänekoski;;
+Enonkoski;;
+Eura;;
+Hartola;;
+Hyrynsalmi;;
+Ii;;
+Ilmajoki;;
+Juva;;
+Joutsa;;
+Kannus;;
+Kemijärvi;;
+Keminmaa;;
+Kihniö;;
+Kitee;;
+Kruunupyy;;
+Kuortane;;
+Kyyjärvi;;
+Loimaa;;
+Lumijoki;;
+Merijärvi;;
+Muhos;;
+Mynämäki;;
+Mänttä-Vilppula;;
+Nurmes;;
+Nurmijärvi;;
+Oripää;;
+Padasjoki;;
+Pudasjärvi;;
+Pukkila;;
+Siikalatva;;
+Riihimäki;;
+Ruovesi;;
+Sastamala;;
+Suomussalmi;;
+Tyrnävä;;
+Vaala;;
+Pihtipudas;;
+Akaa;;
+Alajärvi;;
+Halsua;;
+Iitti;;
+Keuruu;;
+Lempäälä;;
+Luhanka;;
+Marttila;;
+Pieksämäki;;
+Rautalampi;;
+Ristijärvi;;
+Taivalkoski;;
+Vesanto;;
+Vieremä;;
+Ylöjärvi;;
+Kuhmoinen;;
+Leppävirta;;
+Loppi;;
+Parikkala;;
+Punkalaidun;;
+Pyhäjärvi;;
+Rautavaara;;
+Simo;;
+Sotkamo;;
+Sysmä;;
+Utsjoki;;
+Vesilahti;;
+Virolahti;;
+"Voit tarkentaa näkymää";"Barchart can be zoomed";
+"maalaamalla palkkeja pystysuoraan";"by selecting the bars vertically";
+"Nuoret aikuiset (19.-29 v.)";;
+"Etsimääsi kohderyhmää ei löydy";"Target group you were searching for cannot be found";
+"{0} euroa";"{0} euros";
+"hyvät käytänteet";"good practices";
+Hanketyyppi;"Funding body";
+"hankkeet, joille ei myönnetty rahoitusta";"projects that did not receive funding";
+"Alajärven kaupunki/Alajärven kaupunginkirjasto/YTY -kirjastot (Alajärvi\t pääkirjasto ja Lehtimäen toimipiste, Evijärvi, Lappajärvi, Perho, Soini, Veteli ja Vimpeli)";;
+"Entressen kirjasto";;
+"Espoon kaupunginkirjasto (HelMet-kirjastot)";;
+"Hollolan kunnankirjasto";;
+"Humppilan kunnankirjasto";;
+"Karjalohjan kunnankirjasto";;
+"Salon kirjasto";;
+Hollola;;
+Humppila;;
+Salo;;
+"seutukunnat\t";;
+"kunnan- tai kaupunginosat\t";;
+"maakunta\t";;
+"valtakunnallinen\t";;
+"ylimaakunnallinen\t";;
+"kansainvälinen\t";;
+"Kirjaston henkilökunta";;"Bibliotekets personal"
+"Kirjaston ei-käyttäjät";;"Bibliotekets icke-användare"
+"Tietty ammattiryhmä (esim. opettajat)";;"En viss yrkesgrupp (t.ex. lärare)"
+Erityisryhmät;;Specialgrupper
+"Nuoret (13-19  v.)";;"Unga (13-19 år)"
+Sidosryhmät;;Intressentgrupper
+"Kirjaston asiakkaat";;"Bibliotekets kunder"
+Lapsiperheet;;Barnfamiljer
+Ikääntyneet;;Seniorer
+"uudet hakemukset";;
+"Hyrynsalmen kunnankirjasto";;
+"Kotkan kaupunginkirjasto/ Kotkan pääkirjasto";;
+"Lukas-biblioteken genom Raseborgs stadsbibliotek";;
+"Nurmjärven kunnankirjasto";;
+"Rovaniemen kaupunginkirjasto";;
+"Rovaniemen kaupunginkirjasto _ Lapin maakuntakirjasto";;
+"Sipoon kunnankirjasto/Söderkullan kirjasto";;
+"Toenperän kirjasto,  Juvan kirjasto";;
+"Tyrnävän kunta /Pääkirjasto";;
+"Uudenkaupungin kaupunginkirjasto,  Laitilan kaupunginkirjasto ja Pyhärannan kunnankirjasto";;
+"Vaasan kaupunginkirjasto";;
+"Vasa stadsbibliotek/Brändö bibliotek";;
+"Työikäinen väestö";;"Befolkning i arbetsför ålder"
+"Lapset (alle 13 v.)";;"Barn (under 13 år)"
+"Nuoret aikuiset (19.-29 v.)";;
+Miehet;;Män
+Naiset;;Kvinnor
+Maahanmuuttajat;;Invandrare
+Työttömät;;Arbetslösa
+"Klikkaamalla välitotsikkoa voit valita tai poistaa valinnat kaikista väliotsikon alaisista muuttujista kerralla.";"By clicking the subtitle you can check or uncheck all the selections under the subtitle.";
+Yhteistyössä;"In co-operation with";
+"Tekninen toteutus";"Technical implementation";
+ja;" and ";
+kokonaissumma;"Total amount";
+KOKONAISSUMMA;"TOTAL AMOUNT";
+"0 euroa";;"0 euro"
+"ei suoritettuja tutkintoja";;
+"{0} suoritettua tutkintoa";;
+"ei aloittaneita henkilöitä";;
+"{0} aloittanutta henkilöä";;
+"ei etäopetuspäiviä";;
+"{0} etäopetuspäivää";;
+"ei koulutus- ja henkilötyöpäiviä";;
+"{0} koulutus- ja henkilötyöpäivää";;
+yhteensä;;"Den totala mängden"
+"Etsi käytännettä nimeltä";;"Sökt projekt enligt namn"
+"Tarkastele kohderyhmittäin:";;"Granska målgruppsvis:"
+Pallokuvio;;Bubbladiagram
+Palkkikuvio;;Stapeldiagram
+Suodattimet:;;Filter:
+"ja {0} muuta";;" och {0} övrig"
+ja;;" och "
+"Auran kirjasto";;
+"Hyvinkään kaupunginkirjasto";;
+"Oriveden kaupunginkirjasto";;
+"Vihdin kunnankirjasto";;
+Strategisk;;
+Inlärningsmiljö;;
+Utvecklande;;
+"Voit vaihtaa palkkien asettelua sivupalkista (pinottu tai rinnakkan) ja suurentaa osaa kaaviosta maalaamalla palkkeja pystysuoraan.";;
+"Hankkeiden jakaumaa voi muuttaa yläpalkin ""tarkastele""-valikoista. Väritystä voi muuttaa vasemmassa sivupalkissa olevasta valikosta.";;
+"Helsingin kaupunginkirjasto - yleisten kirjastojen keskuskirjasto";;
+LUKUINTO-ohjelma;;
+"Pellon ja Ylitornion kirjastot";;
+"Pyhäjoen kunnankirjasto (yhteistyössä Merijärven kunnankirjaston kanssa)";;
+"Seinäjoen kaupunginkirjasto, Seinäjoen kaupungin Maahanmuuttajakeskus, Seinäjoen Kansalaisopisto ja Sedu Aikuiskoulutus";;
+"Yleisten kirjastojen keskuskirjasto - Kirjastot.fi";;
+Pello;;
+"Nuoret (13-19  v.)";;
+"Kirjaston ei-käyttäjät";;
+"Kirjaston henkilökunta";;
+"Kirjaston asiakkaat";;
+"Tietty ammattiryhmä (esim. opettajat)";;
+Erityisryhmät;;
+Sidosryhmät;;
+Ikääntyneet;;
+Lapsiperheet;;
+"Rovaniemen kaupunginkirjasto";;
+"Nuoret aikuiset (19.-29 v.)";;
+"Lapset (alle 13 v.)";;
+"Työikäinen väestö";;
+Maahanmuuttajat;;
+Työttömät;;
+Miehet;;
+Naiset;;

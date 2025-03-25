@@ -1,0 +1,3398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kirvis2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2016-02-22T13:25:08+01:00\n"
+"PO-Revision-Date: 2016-02-22T13:25:08+01:00\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: barchart.js:354 barchart.js
+msgid "Myönnetty rahoitus"
+msgstr "The funding allocated"
+
+#: vis.js:403 vis.js
+msgid "Kokonaissumma"
+msgstr "Total amount"
+
+#: barchart.js:281
+msgid "Mediakasvatus"
+msgstr "Media literacy"
+
+#: barchart.js:281
+msgid "Tilasuunnittelu"
+msgstr "Library space planning"
+
+#: barchart.js:281
+msgid "Lukemisen edistäminen"
+msgstr "Promoting reading"
+
+#: barchart.js:281
+msgid "Palvelujen kehittäminen"
+msgstr "Improvement of services"
+
+#: barchart.js:281
+msgid "Oppimisympäristö ja yhteisöllisyys"
+msgstr "Learning environment and communality"
+
+#: barchart.js:281
+msgid "Digitointi"
+msgstr "Digitisation"
+
+#: barchart.js:281
+msgid "Laitehankinnat"
+msgstr "Equipment acquisitions"
+
+#: barchart.js:281
+msgid "Verkkopalvelut"
+msgstr "Online services"
+
+#: barchart.js:281
+msgid "Kokoelmat"
+msgstr "Collections"
+
+#: barchart.js:281
+msgid "Henkilöstön osaaminen"
+msgstr "Emploee development"
+
+#: barchart.js:281
+msgid "Strateginen kehittäminen"
+msgstr "Strategy development"
+
+#: vis.js:526
+msgid "Yli miljoonan"
+msgstr "Over a million"
+
+#: vis.js:528
+msgid "500,000-1 miljoona"
+msgstr "500,000 - 1 million"
+
+#: vis.js:668
+msgid "Valmistumisen vauhdittaminen ja 2."
+msgstr ""
+
+#: vis.js:691
+msgid "asteen koulutukseen siirtymisen tukeminen"
+msgstr ""
+
+#: vis.js:816
+msgid " 0 euroa"
+msgstr "0 euros"
+
+#: vis.js:818
+msgid "< 0.01 milj. euroa"
+msgstr "< 0.01 milj. euros"
+
+#: vis.js:820
+msgid "{0} milj. euroa ({1}%)"
+msgstr "{0} milj. euros ({1}%)"
+
+#: vis.js:828
+msgid "1 hanke"
+msgstr "1 project"
+
+#: vis.js:830
+msgid "{0} hanketta"
+msgstr "{0} projects"
+
+#: vis.js:838
+msgid "1 kpl"
+msgstr "1 pcs."
+
+#: vis.js:840
+msgid "{0} kpl"
+msgstr "{0} pcs."
+
+#: vis.js:848
+msgid "ei uusia työpaikkoja"
+msgstr "no new jobs"
+
+#: vis.js:850
+msgid "{0} uutta työpaikkaa"
+msgstr "{0} new jobs"
+
+#: vis.js:858
+msgid "ei uusia yrityksiä"
+msgstr "no new "
+
+#: vis.js:860
+msgid "{0} uutta yritystä"
+msgstr "{0} new enterprices"
+
+#: vis.js:868
+msgid "ei osallistuneita yrityksiä"
+msgstr "no participant enterprices"
+
+#: vis.js:870
+msgid "{0} osallistunutta yritystä"
+msgstr "{0} participant enterprices"
+
+#: vis.js:878
+msgid "ei osallistuneita organisaatioita"
+msgstr "no participant organizations"
+
+#: vis.js:880
+msgid "{0} osallistunutta organisaatiota"
+msgstr "{0} participant organizations"
+
+msgid "Teemoittain"
+msgstr "Themes"
+
+msgid "Maakunnittain"
+msgstr "Region"
+
+msgid "Kunnittain"
+msgstr "Municipality"
+
+msgid "Vaikutusalueittain"
+msgstr "Area"
+
+msgid "Kohderyhmittäin"
+msgstr "Target group"
+
+msgid "Avi-alueittain"
+msgstr "Regional state administrative agency area (AVI)"
+
+msgid "Vuosittain"
+msgstr "Year"
+
+msgid "Rahoittajittain"
+msgstr "Funding body"
+
+msgid "Koon mukaan"
+msgstr "Size"
+
+msgid "Yhteensä"
+msgstr "Total"
+
+msgid "Uusimaa"
+msgstr ""
+
+msgid "Pohjois-Pohjanmaa"
+msgstr "Northern Ostrobothnia"
+
+msgid "Lappi"
+msgstr "Lapland"
+
+msgid "Varsinais-Suomi"
+msgstr "Southwest Finland"
+
+msgid "Pohjanmaa"
+msgstr "Ostrobothnia"
+
+msgid "Etelä-Savo"
+msgstr "Southern Savonia"
+
+msgid "Pohjois-Karjala"
+msgstr "North Karelia"
+
+msgid "Satakunta"
+msgstr "Satakunta"
+
+msgid "Etelä-Pohjanmaa"
+msgstr "Southern Ostrobothnia"
+
+msgid "Pirkanmaa"
+msgstr "Pirkanmaa"
+
+msgid "Pohjois-Savo"
+msgstr "Northern Savonia"
+
+msgid "Kymenlaakso"
+msgstr ""
+
+msgid "Kanta-Häme"
+msgstr "Tavastia Proper"
+
+msgid "Keski-Suomi"
+msgstr "Central Finland"
+
+msgid "Etelä-Karjala"
+msgstr "South Karelia"
+
+msgid "Uusimaa-Keskuskirjasto"
+msgstr "Uusimaa Central Library"
+
+msgid "Päijät-Häme"
+msgstr "Päijänne Tavastia"
+
+msgid "Keski-Pohjanmaa"
+msgstr "Central Ostrobothnia"
+
+msgid "Kainuu"
+msgstr ""
+
+msgid "kunnat"
+msgstr "municipalities"
+
+msgid "maakunta"
+msgstr "region"
+
+msgid "kunnan- tai kaupunginosat"
+msgstr "parts of municipality or city"
+
+msgid "valtakunnallinen"
+msgstr "nationwide"
+
+msgid "seutukunnat"
+msgstr "sub-regions"
+
+msgid "ylimaakunnallinen"
+msgstr "several regions"
+
+msgid "kansainvälinen"
+msgstr "international"
+
+msgid "Kirjaston asiakkaat"
+msgstr "All library users"
+
+msgid "Kirjaston henkilökunta"
+msgstr "Library staff"
+
+msgid "Lapset (alle 13 v.)"
+msgstr "Children (under 13 years)"
+
+msgid "Nuoret (13-19 v.)"
+msgstr "Adolescents (13-19 years)"
+
+msgid "Nuoret (13-19  v.)"
+msgstr "Adolescents (13-19 years)"
+
+msgid "Ikääntyneet"
+msgstr "Elderly people"
+
+msgid "Kirjaston ei-käyttäjät"
+msgstr "Library non-users"
+
+msgid "Tietty ammattiryhmä (esim. opettajat)"
+msgstr "Specific occupational groups (e.g. teachers)"
+
+msgid "Sidosryhmät"
+msgstr "Interest groups"
+
+msgid "Erityisryhmät"
+msgstr "Special groups"
+
+msgid "Lapsiperheet"
+msgstr "Families with children"
+
+msgid "Maahanmuuttajat"
+msgstr "Immigrants"
+
+msgid "Nuoret aikuiset (19-29 v.)"
+msgstr "Young adults (19-29 years)"
+
+msgid "Työikäinen väestö"
+msgstr "Working age people"
+
+msgid "Työttömät"
+msgstr "Unemployed people"
+
+msgid "Miehet"
+msgstr "Men"
+
+msgid "Naiset"
+msgstr "Women"
+
+msgid "Etelä-Suomi"
+msgstr "Southern Finland"
+
+msgid "Länsi-ja Sisä-Suomi"
+msgstr "Western and Inland Finland"
+
+msgid "Länsi- ja Sisä-Suomi"
+msgstr "Western and Inland Finland"
+
+msgid "Itä-Suomi"
+msgstr "Eastern Finland"
+
+msgid "Lounais-Suomi"
+msgstr "Southwest Finland"
+
+msgid "Pohjois-Suomi"
+msgstr "Northern Finland"
+
+msgid "OKM"
+msgstr "Ministry of Education and Culture"
+
+msgid "Opetus- ja kulttuuriministeriö"
+msgstr "Ministry of Education and Culture"
+
+msgid "suomenkielinen"
+msgstr "Finnish"
+
+msgid "fi"
+msgstr "Finnish"
+
+msgid "sv"
+msgstr "Swedish"
+
+msgid "ruotsinkielinen"
+msgstr "Swedish"
+
+msgid "Hankerekisterin visualisointi - Hyvät käytänteet"
+msgstr "Library project register visualisation - Good practices"
+
+msgid "Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Tämän visualisoinnin avulla voit tutustua kirjastojen erilaisiin hyviin käytänteisiin."
+msgstr "Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore the public libraries good practices."
+
+msgid "Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Visualisoinnin avulla voit tutustua kirjastojen kehittämishankkeisiin."
+msgstr "Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore the public library development projects in Finland. "
+
+msgid "Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Tämän visualisoinnin avulla voit tutustua niihin haettuihin kehittämishankkeisiin, joille ei myönnetty tukea."
+msgstr "Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore those public library development projects, that did not receive funding."
+
+msgid "Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Tämän visualisoinnin avulla voit tutustua vuoden 2016 hakukierroksella jätettyihin kehittämishankeavustuksiin."
+msgstr "Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore the autumn 2016 submitted funding applications for public library development projects in Finland."
+
+msgid "Yksi pallo edustaa yhtä hanketta. Pallon koko kertoo, kuinka paljon avustusta hankkeelle on haettu. Viemällä hiirenosoittimen pallon päälle saa hankkeesta lisätietoa. Palloa klikkaamalla pääsee hankkeen nettisivuille."
+msgstr "One sphere represents one project. The size of the sphere indicates the amount of funding applied for the project. For more information on the project, move cursor above the sphere. Click the sphere to move to a specific project website (only in Finnish/Swedish)."
+
+msgid "Yksi pallo edustaa yhtä hyvää käytäntöä. Viemällä hiirenosoittimen pallon päälle saa käytänteestä lisätietoa. Palloa klikkaamalla pääsee käytänteen nettisivuille."
+msgstr "One sphere represents one good practice. For more information on the practice, move cursor above the sphere. Click the sphere to move to a specific pracice website (only in Finnish/Swedish)."
+
+msgid "Hyvien käytänteiden jakaumaa voi muuttaa yläpalkin \"tarkastele\"-valikoista. Väritystä voi muuttaa vasemmassa sivupalkissa olevasta valikosta. Myös käytänteiden kohderyhmiä voi tarkastella ylä-valikossa olevasta pudotusvalikosta. Etsi-toiminnolla voi etsiä hyvää käytäntöä nimeltä."
+msgstr "The distribution of the practices can be changed by clicking the \"view by\" buttons on the top menu bar. Colours can be changed from the menu on the left. The practices distribution can be viewed also by target groups by choosing a group from the drop-down menu on the left menu."
+
+msgid "Hyvien käytänteiden jakaumaa voi muuttaa visualisoinnin yläpalkin \"tarkastele\"-valikoista. Väritystä voi muuttaa vasemmassa sivupalkissa olevasta valikosta. Suodattimista on mahdollista rajata näytettävien käytänteiden määrää. Myös käytänteiden kohderyhmiä voi tarkastella sivupalkissa olevasta pudotusvalikosta. Etsi-toiminnolla voi etsiä hyvää käytäntöä nimeltä."
+msgstr "The distribution of the practices can be changed by clicking the \"view by\" buttons on the top menu bar. Colours can be changed from the menu on the left. Shown practices can be filtered from the filters-menu. The practices distribution can be viewed also by target groups by choosing a group from the drop-down menu on the left menu."
+
+msgid "Hankkeiden jakaumaa voi muuttaa visualisoinnin yläpalkin \"tarkastele\"-valikoista. Väritystä voi muuttaa vasemmassa sivupalkissa olevasta valikosta. Suodattimista on mahdollista rajata näytettävien hankkeiden määrää. Myös hankkeiden kohderyhmiä voi tarkastella sivupalkissa olevasta pudotusvalikosta. Etsi-toiminnolla voi etsiä hanketta nimeltä."
+msgstr "The distribution of the projects can be changed by clicking the \"view by\" buttons on the top menu bar. Colours can be changed from the menu on the left. The project distribution can be viewed also by target groups by choosing a group from the drop-down menu on the left menu."
+
+msgid "Kuinka visualisointi toimii"
+msgstr "How does the visualisation work?"
+
+msgid "Yksi pallo edustaa yhtä hanketta. Pallon koko kertoo, kuinka paljon avustusta hankkeelle on myönnetty. Viemällä hiirenosoittimen pallon päälle saa hankkeesta lisätietoa. Palloa klikkaamalla pääsee hankkeen nettisivuille."
+msgstr "One sphere represents one project. The size of the sphere indicates the amount of funding granted to the project. For more information on the project, move cursor above the sphere. Click the sphere to move to a specific project website (only in Finnish/Swedish)."
+
+msgid "Hankkeiden jakaumaa voi muuttaa visualisoinnin yläpalkin \"tarkastele\"-valikoista. Väritystä voi muuttaa vasemmassa sivuapalkissa olevasta valikosta. Myös Hankkeiden kohderyhmiä voi tarkastella ylä-valikossa olevasta pudotusvalikosta. Etsi-toiminnolla voi etsiä hanketta nimeltä."
+msgstr "The distribution of the projects can be changed by clicking the \"view by\" buttons on the top menu bar. Colours can be changed from the menu on the left. The project distribution can be viewed also by target groups by choosing a group from the drop-down menu on the left menu."
+
+msgid "Visualisointi ei valitettavasti toimi vanhemmilla internet-selaimilla (esim. IE8 ja sitä vanhemmat)."
+msgstr "The visualisation does not unfortunately work on older internet-browsers (e.g. IE8 and older)."
+
+msgid "Pylväskuviossa näytettävän jakauman voi valita yläpalkin \"tarkastele\"-valikoista. Palkkien väritystä voi muuttaa vasemmassa sivupalkissa olevasta valikosta. Suodattimista on mahdollista rajata kuvioon laskettavien hankkeiden määrää."
+msgstr "Shown bars in the barchart can be changed by clicking the \"view by\" buttons on the top menu bar. Colours can be changed from the menu on the left. Calculated projects can be filtered from the filters-menu"
+
+msgid "Voit myös vaihtaa palkkien asettelua sivupalkin painikkeista \"pinottu\" ja \"rinnakkain\". Palkkikaavion näkymää voi myös suurentaa \"maalaamalla\" palkkeja pystysuoraan."
+msgstr "The arranging of the bars can be changed from the \"stacked\" and \"normal\" -buttons. Barchart can zoomed by \"painting\" the bars vertically."
+
+msgid "Hankkeiden jakaumaa voi muuttaa ylälaidan \"tarkastele\"-valikoista. Väritystä voi muuttaa vasemmassa sivupalkissa olevasta valikosta. Suodattimista on mahdollista rajata näytettävien hankkeiden määrää. Myös hankkeiden kohderyhmiä voi tarkastella sivupalkissa olevasta pudotusvalikosta. Etsi-toiminnolla voi etsiä hanketta nimeltä."
+msgstr "The distribution of the projects can be changed by clicking the \"view by\" buttons on the top menu bar. Colours can be changed from the colorlegend classification -menu on the left. Shown projects can be filtered from the filters-menu. The project distribution can be viewed also by target groups by choosing a group from the drop-down menu on the left menu. Search-function allows you to search projects by their name."
+
+msgid "Valitse visualisointi"
+msgstr "Select chart"
+
+msgid "Pallot"
+msgstr "Bubblechart"
+
+msgid "Tarkastele"
+msgstr "View by"
+
+msgid "Palkit"
+msgstr "Barchart"
+
+msgid "Hankerekisterin<b> Visualisointi </b>"
+msgstr "Project register <b>Visualisation</b>"
+
+msgid "Hankerekisterin Visualisointi"
+msgstr "Project register <b>Visualisation</b>"
+
+msgid "Paluu hankerekisteriin"
+msgstr "Return to project register"
+
+msgid "Vaihda väritystä"
+msgstr "Change color"
+
+msgid "Suodattimet"
+msgstr "Filters"
+
+msgid "Tutustu myös muihin visualisointeihin"
+msgstr "Visit also other visualisations"
+
+msgid "Espoo"
+msgstr ""
+
+msgid "Hanko"
+msgstr ""
+
+msgid "Helsinki"
+msgstr ""
+
+msgid "Vantaa"
+msgstr ""
+
+msgid "Kaskinen"
+msgstr ""
+
+msgid "Kauniainen"
+msgstr ""
+
+msgid "Kirkkonummi"
+msgstr ""
+
+msgid "Kokkola"
+msgstr ""
+
+msgid "Lapinjärvi"
+msgstr ""
+
+msgid "Loviisa"
+msgstr ""
+
+msgid "Lohja"
+msgstr ""
+
+msgid "Myrskylä"
+msgstr ""
+
+msgid "Pyhtää"
+msgstr ""
+
+msgid "Porvoo"
+msgstr ""
+
+msgid "Sipoo"
+msgstr ""
+
+msgid "Siuntio"
+msgstr ""
+
+msgid "Turku"
+msgstr ""
+
+msgid "Vaasa"
+msgstr ""
+
+msgid "Inkoo"
+msgstr ""
+
+msgid "Kemiönsaari"
+msgstr ""
+
+msgid "Kristiinankaupunki"
+msgstr ""
+
+msgid "Kronoby"
+msgstr ""
+
+msgid "Maalahti"
+msgstr ""
+
+msgid "Mustasaari"
+msgstr ""
+
+msgid "Parainen"
+msgstr ""
+
+msgid "Pietarsaari"
+msgstr ""
+
+msgid "Pedersören kunta"
+msgstr ""
+
+msgid "Raasepori"
+msgstr ""
+
+msgid "Uusikaarlepyy"
+msgstr ""
+
+msgid "Vöyri"
+msgstr ""
+
+msgid "Luoto"
+msgstr ""
+
+msgid "Maarianhamina"
+msgstr ""
+
+msgid "Närpiö"
+msgstr ""
+
+msgid "Enontekiö"
+msgstr ""
+
+msgid "Eurajoki"
+msgstr ""
+
+msgid "Hailuoto"
+msgstr ""
+
+msgid "Hamina"
+msgstr ""
+
+msgid "Hyvinkää"
+msgstr ""
+
+msgid "Hämeenkyrö"
+msgstr ""
+
+msgid "Hämeenlinna"
+msgstr ""
+
+msgid "Iisalmi"
+msgstr ""
+
+msgid "Ikaalinen"
+msgstr ""
+
+msgid "Ilomantsi"
+msgstr ""
+
+msgid "Inari"
+msgstr ""
+
+msgid "Isojoki"
+msgstr ""
+
+msgid "Isokyrö"
+msgstr ""
+
+msgid "Jokioinen"
+msgstr ""
+
+msgid "Joroinen"
+msgstr ""
+
+msgid "Järvenpää"
+msgstr ""
+
+msgid "Kaarina"
+msgstr ""
+
+msgid "Kajaani"
+msgstr ""
+
+msgid "Karijoki"
+msgstr ""
+
+msgid "Karkkila"
+msgstr ""
+
+msgid "Kaustinen"
+msgstr ""
+
+msgid "Kerava"
+msgstr ""
+
+msgid "Kokemäki"
+msgstr ""
+
+msgid "Kustavi"
+msgstr ""
+
+msgid "Köyliö"
+msgstr ""
+
+msgid "Lahti"
+msgstr ""
+
+msgid "Laihia"
+msgstr ""
+
+msgid "Lappeenranta"
+msgstr ""
+
+msgid "Lapua"
+msgstr ""
+
+msgid "Lieto"
+msgstr ""
+
+msgid "Liminka"
+msgstr ""
+
+msgid "Merikarvia"
+msgstr ""
+
+msgid "Mikkeli"
+msgstr ""
+
+msgid "Naantali"
+msgstr ""
+
+msgid "Nousiainen"
+msgstr ""
+
+msgid "Oulu"
+msgstr ""
+
+msgid "Paimio"
+msgstr ""
+
+msgid "Pirkkala"
+msgstr ""
+
+msgid "Pomarkku"
+msgstr ""
+
+msgid "Pori"
+msgstr ""
+
+msgid "Pornainen"
+msgstr ""
+
+msgid "Raahe"
+msgstr ""
+
+msgid "Raisio"
+msgstr ""
+
+msgid "Rauma"
+msgstr ""
+
+msgid "Sauvo"
+msgstr ""
+
+msgid "Savonlinna"
+msgstr ""
+
+msgid "Taivassalo"
+msgstr ""
+
+msgid "Tampere"
+msgstr ""
+
+msgid "Teuva"
+msgstr ""
+
+msgid "Tornio"
+msgstr ""
+
+msgid "Tuusula"
+msgstr ""
+
+msgid "Ulvila"
+msgstr ""
+
+msgid "Uusikaupunki"
+msgstr ""
+
+msgid "Veteli"
+msgstr ""
+
+msgid "Vihti"
+msgstr ""
+
+msgid "Virrat"
+msgstr ""
+
+msgid "Ylitornio"
+msgstr ""
+
+msgid "Ähtäri"
+msgstr ""
+
+msgid "Toteuttajan nimi"
+msgstr "Host institution"
+
+msgid "Teema"
+msgstr "Theme"
+
+msgid "Maakunta"
+msgstr "Region"
+
+msgid "Kunta"
+msgstr "Municipality"
+
+msgid "Vaikutusalue"
+msgstr "Area"
+
+msgid "Kohderyhmät"
+msgstr "Target groups"
+
+msgid "Rahoittaja"
+msgstr "Funding body"
+
+msgid "Vuosi"
+msgstr "Year"
+
+msgid "Myönnetty avustus"
+msgstr "Awarded funds"
+
+msgid "Haettu avustus"
+msgstr "Applied funding"
+
+msgid "Oma rahoitus"
+msgstr "Own funding"
+
+msgid "Tutustu hankkeeseen tarkemmin"
+msgstr "Read more about project"
+
+msgid "Kieli"
+msgstr "Language"
+
+msgid "käytännettä"
+msgstr "practices"
+
+msgid "Hyvät käytänteet"
+msgstr "Good practises"
+
+msgid "Hankkeet, joille ei myönnetty tukea"
+msgstr "Projects that did not receive funding"
+
+msgid "Hyväksytyt hankkeet"
+msgstr "Approved projects"
+
+msgid "Uudet hankehakemukset"
+msgstr "New project funding applications"
+
+msgid "Hankerekisterin visualisointi - Hankkeet, joille ei myönnetty rahoitusta"
+msgstr "Project register visualisation - Projects that did not receive funding"
+
+msgid "Hankerekisterin visualisointi"
+msgstr "Project register visualisation"
+
+msgid "Hankerekisterin visualisointi - Uudet hakemukset"
+msgstr "Project register visualisation - New project funding applications "
+
+msgid "Näytä info"
+msgstr "Show info"
+
+msgid "Piilota info"
+msgstr "Hide info"
+
+msgid "Lähetä palautetta"
+msgstr "Give feedback"
+
+msgid "Tutustu myös muihin visualisointeihin"
+msgstr "Visit also other visualisations"
+
+msgid "Tarkastele kohderyhmittäin"
+msgstr "View by target group"
+
+msgid "Etsi hanketta nimeltä"
+msgstr "Search project by name"
+
+msgid "Hae kuntaa"
+msgstr "Search"
+
+msgid "Lataa"
+msgstr "Export"
+
+msgid "Tulosta kaavio"
+msgstr "Print chart"
+
+msgid "Lataa PNG-kuva"
+msgstr "Download PNG-image"
+
+msgid "Lataa JPEG-kuvat"
+msgstr "Download JPEG-image"
+
+msgid "Lataa PDF-dokumentti"
+msgstr "Download PDF-document"
+
+msgid "Lataa SVG-vektorikuva"
+msgstr "Download SVG-vector-image"
+
+msgid "Lataa CSV-tiedosto"
+msgstr "Download CSV-file"
+
+msgid "Lataa XLS-tiedosto"
+msgstr "Download XLS-file"
+
+msgid "Aluehallintovirasto"
+msgstr "Regional State Administrative Agency Area (Avi)"
+
+msgid "Toteuttaja"
+msgstr "Host institution"
+
+msgid "Yhteensä"
+msgstr "Total amount"
+
+msgid "Pinottu"
+msgstr "Stacked"
+
+msgid "Rinnakkain"
+msgstr "Normal"
+
+msgid "Vaihda palkkien asettelua"
+msgstr "Change chart layout"
+
+msgid "Tietokanta"
+msgstr "Database"
+
+msgid "(yhteensä {0} €)"
+msgstr "(total {0} €)"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Väriselite"
+msgstr "Legend"
+
+msgid " ja {0} muuta"
+msgstr " and {0} anothers"
+
+msgid "Valitse kaikki"
+msgstr "Select all"
+
+msgid "Poista kaikki"
+msgstr "Unselect all"
+
+msgid "Syötä hakusana"
+msgstr "Filter"
+
+msgid "Visualisointi"
+msgstr "Visualisation"
+
+msgid "Etsi"
+msgstr "Search"
+
+msgid "Rajaa hankkeiden määrää"
+msgstr "Filter projects"
+
+msgid "Akaan kaupunginkirjasto"
+msgstr ""
+
+msgid "Alajärven kaupunki/Alajärven kaupunginkirjasto"
+msgstr ""
+
+msgid "Alajärven kaupunki/Järvi-Pohjanmaan kirjastot: Alajärvi,Soini,Vimpeli"
+msgstr ""
+
+msgid "Alajärven kaupunki/YTY -kirjastot: Alajärvi (sisältää Lehtimäen), Evijärvi, Lappajärvi, Perho, Soini, Veteli ja Vimpeli"
+msgstr ""
+
+msgid "Alavieskan kunnankirjasto"
+msgstr ""
+
+msgid "Alavieskan kunta/Kirjasto"
+msgstr ""
+
+msgid "Alavuden kaupunginkirjasto"
+msgstr ""
+
+msgid "Asikkalan kirjasto"
+msgstr ""
+
+msgid "Askolan kunnankirjasto"
+msgstr ""
+
+msgid "Auran kirjasto"
+msgstr ""
+
+msgid "Auran kirjasto "
+msgstr ""
+
+msgid "Enonkosken kunnankirjasto"
+msgstr ""
+
+msgid "Enontekiön kunnankirjasto"
+msgstr ""
+
+msgid "Esbo stadsbibliotek"
+msgstr ""
+
+msgid "Espoon kaupunginkirjasto"
+msgstr ""
+
+msgid "Espoon kaupunginkirjasto - Entressen kirjasto"
+msgstr ""
+
+msgid "Espoon kaupunginkirjasto - Kirjasto Omena"
+msgstr ""
+
+msgid "Espoon kaupunginkirjasto - Sellon kirjasto"
+msgstr ""
+
+msgid "Espoon kaupunginkirjasto - Tapiolan kirjasto"
+msgstr ""
+
+msgid "Espoon kaupunginkirjasto - kirjastoauto"
+msgstr ""
+
+msgid "Espoon kaupunginkirjasto / Entressen kirjasto"
+msgstr ""
+
+msgid "Espoon kaupunginkirjasto. Sellon toimipiste"
+msgstr ""
+
+msgid "Espoon kaupunginkirjasto/Hakeutuva toiminta"
+msgstr ""
+
+msgid "Euran kunnankirjasto"
+msgstr ""
+
+msgid "Forssan kaupunginkirjasto"
+msgstr ""
+
+msgid "Haapajärven kirjasto"
+msgstr ""
+
+msgid "Haapaveden kirjasto"
+msgstr ""
+
+msgid "Hailuodon kunta / kunnankirjasto"
+msgstr ""
+
+msgid "Halsuan kunnankirjasto"
+msgstr ""
+
+msgid "Haminan kaupunginkirjasto"
+msgstr ""
+
+msgid "Hangon kaupunginkirjasto"
+msgstr ""
+
+msgid "Hangon kaupunginkirjasto - Hangö stadsbibliotek"
+msgstr ""
+
+msgid "Hankasalmen kirjasto"
+msgstr ""
+
+msgid "Harjavallan kaupunginkirjasto"
+msgstr ""
+
+msgid "Hartolan kunnankirjasto"
+msgstr ""
+
+msgid "Hattulan kunnankirjasto"
+msgstr ""
+
+msgid "Heinolan kaupunginkirjasto"
+msgstr ""
+
+msgid "Heinäveden kunnankirjasto"
+msgstr ""
+
+msgid "Helsingin kaupunginkirjasto"
+msgstr ""
+
+msgid "Honkajoen kunnankirjasto"
+msgstr ""
+
+msgid "Huittisten kaupunginkirjasto"
+msgstr ""
+
+msgid "Hyrynsalmen kirjasto"
+msgstr ""
+
+msgid "Hyrynsalmen kunta / kunnankirjasto"
+msgstr ""
+
+msgid "Hyvinkään kaupunginkirjasto"
+msgstr ""
+
+msgid "Hyvinkään kaupunginkirjasto "
+msgstr ""
+
+msgid "Hämeenkyrön kirjasto"
+msgstr ""
+
+msgid "Hämeenlinnan kaupunginkirjasto"
+msgstr ""
+
+msgid "Hämeenlinnan kaupunginkirjasto - Hämeen maakuntakirjasto"
+msgstr ""
+
+msgid "Hämeenlinnan kaupunginkirjasto-Hämeen maakuntakirjasto"
+msgstr ""
+
+msgid "Iin kunta /Ii-instituutti -liikelaitos /Pääkirjasto"
+msgstr ""
+
+msgid "Iisalmen kaupunginkirjasto"
+msgstr ""
+
+msgid "Iitin kunnankirjasto"
+msgstr ""
+
+msgid "Ikaalisten kaupunginkirjasto"
+msgstr ""
+
+msgid "Ilmajoen kunnankirjasto"
+msgstr ""
+
+msgid "Ilomantsin kunnankirjasto"
+msgstr ""
+
+msgid "Imatran kaupunginkirjasto"
+msgstr ""
+
+msgid "Inarin kunnankirjasto"
+msgstr ""
+
+msgid "Ingå kommunbibliotek"
+msgstr ""
+
+msgid "Isojoen kirjasto"
+msgstr ""
+
+msgid "Isojoen kunnankirjasto"
+msgstr ""
+
+msgid "Isonkyrön kunnankirjasto"
+msgstr ""
+
+msgid "JJR-kirjasto, Juvan kirjasto"
+msgstr ""
+
+msgid "Jalasjärven kunnankirjasto"
+msgstr ""
+
+msgid "Janakkalan kirjasto"
+msgstr ""
+
+msgid "Joensuun seutukirjasto - Pohjois-Karjalan maakuntakirjasto"
+msgstr ""
+
+msgid "Jokelan kirjasto"
+msgstr ""
+
+msgid "Jokioisten kunnankirjasto"
+msgstr ""
+
+msgid "Joutsan kunnankirjasto"
+msgstr ""
+
+msgid "Juuan kunnankirjasto"
+msgstr ""
+
+msgid "Jyväskylän kaupunginkirjasto - Keski-Suomen maakuntakirjasto"
+msgstr ""
+
+msgid "Jyväskylän kaupunginkirjasto – Keski-Suomen maakuntakirjasto"
+msgstr ""
+
+msgid "Jämsän kaupunginkirjasto"
+msgstr ""
+
+msgid "Kaarinan kaupunginkirjasto"
+msgstr ""
+
+msgid "Kaavin kirjasto"
+msgstr ""
+
+msgid "Kajaanin kaupunginkirjasto - Kainuun maakuntakirjasto"
+msgstr ""
+
+msgid "Kalajoen kaupunginkirjasto"
+msgstr ""
+
+msgid "Kalajoen kaupunki/kaupunginkirjasto"
+msgstr ""
+
+msgid "Kangasalan kunnankirjasto"
+msgstr ""
+
+msgid "Kangasniemen kunnankirjasto"
+msgstr ""
+
+msgid "Kankaanpään kaupunginkirjasto"
+msgstr ""
+
+msgid "Kannonkosken kunnankirjasto"
+msgstr ""
+
+msgid "Kannuksen kaupunginkirjasto"
+msgstr ""
+
+msgid "Karijoen kunnankirjasto"
+msgstr ""
+
+msgid "Karkkilan kaupunginkirjasto"
+msgstr ""
+
+msgid "Karleby stadsbibliotek-landskapsbibliotek"
+msgstr ""
+
+msgid "Kaskisten kaupunginkirjasto"
+msgstr ""
+
+msgid "Kauhajoen kaupunginkirjasto"
+msgstr ""
+
+msgid "Kauhavan kaupunginkirjasto"
+msgstr ""
+
+msgid "Kaustisen kirjasto"
+msgstr ""
+
+msgid "Keiteleen ja Pielaveden kirjastot"
+msgstr ""
+
+msgid "Keiteleen ja Pielaveden kunnankirjastot"
+msgstr ""
+
+msgid "Keiteleen kunnankirjasto"
+msgstr ""
+
+msgid "Kemijärven kaupunginkirjasto"
+msgstr ""
+
+msgid "Kemin kaupunginkirjasto"
+msgstr ""
+
+msgid "Keminmaan kunnankirjasto"
+msgstr ""
+
+msgid "Kempeleen kirjasto"
+msgstr ""
+
+msgid "Kempeleen kunta/ kirjasto"
+msgstr ""
+
+msgid "Keravan kaupunginkirjasto"
+msgstr ""
+
+msgid "Kerimäen kirjasto"
+msgstr ""
+
+msgid "Keuruun kaupunginkirjasto"
+msgstr ""
+
+msgid "Kihniön kunnankirjasto"
+msgstr ""
+
+msgid "Kimitoöns kommunbibliotek"
+msgstr ""
+
+msgid "Kirkkonummen kunnankirjasto"
+msgstr ""
+
+msgid "Kiteen kaupunginkirjasto"
+msgstr ""
+
+msgid "Kittilän kunnankirjasto"
+msgstr ""
+
+msgid "Kiuruveden kaupunginkirjasto"
+msgstr ""
+
+msgid "Koillis-Savon aluekirjasto"
+msgstr ""
+
+msgid "Kokemäen kaupunginkirjasto"
+msgstr ""
+
+msgid "Kokkolan kaupunginkirjasto - maakuntakirjasto"
+msgstr ""
+
+msgid "Kokkolan kaupunginkirjasto-maakuntakirjasto"
+msgstr ""
+
+msgid "Kokkolan kaupunginkirjato-maakuntakirjasto"
+msgstr ""
+
+msgid "Kolarin kunnankirjasto"
+msgstr ""
+
+msgid "Korsholms bibliotek"
+msgstr ""
+
+msgid "Korsnäs kommunbibliotek"
+msgstr ""
+
+msgid "Kotkan kaupunginkirjasto"
+msgstr ""
+
+msgid "Kouvolan kaupunginkirjasto"
+msgstr ""
+
+msgid "Kouvolan kaupunginkirjasto - maakuntakirjasto"
+msgstr ""
+
+msgid "Kouvolan kaupunginkirjasto-maakuntakirjasto"
+msgstr ""
+
+msgid "Kronoby kommunbibliotek"
+msgstr ""
+
+msgid "Kuhmoisten kunnakirjasto"
+msgstr ""
+
+msgid "Kuhmon kaupunginkirjasto"
+msgstr ""
+
+msgid "Kuopion kaupunginkirjasto"
+msgstr ""
+
+msgid "Kuopion kaupunginkirjasto - Pohjois-Savon maakuntakirjasto"
+msgstr ""
+
+msgid "Kuopion kaupunginkirjasto - Pohjois-savon maakuntakirjasto"
+msgstr ""
+
+msgid "Kuortaneen kunnankirjasto"
+msgstr ""
+
+msgid "Kurikan kaupunginkirjasto"
+msgstr ""
+
+msgid "Kurikan kaupunginkirjasto/Jalasjärven kirjasto"
+msgstr ""
+
+msgid "Kustavin kunnankirjasto"
+msgstr ""
+
+msgid "Kuusamon kaupunginkirjasto"
+msgstr ""
+
+msgid "Kyyjärven kunnankirjasto"
+msgstr ""
+
+msgid "Kärsämäen kirjasto"
+msgstr ""
+
+msgid "Lahden kaupunginkirjasto-maakuntakirjasto"
+msgstr ""
+
+msgid "Laihian kirjasto"
+msgstr ""
+
+msgid "Lapin maakuntakuntakirjasto - Rovaniemen kaupunginkirjasto"
+msgstr ""
+
+msgid "Lapinjärven kirjasto"
+msgstr ""
+
+msgid "Lapinlahden kunnankirjasto"
+msgstr ""
+
+msgid "Lappeenrannan maakuntakirjasto"
+msgstr ""
+
+msgid "Lapuan kaupunginkirjasto"
+msgstr ""
+
+msgid "Larsmo kommunbibliotek"
+msgstr ""
+
+msgid "Laukaan kunnankirjasto"
+msgstr ""
+
+msgid "Lempäälän kunnankirjasto"
+msgstr ""
+
+msgid "Leppävirran kunnankirjasto"
+msgstr ""
+
+msgid "Liedon kunnankirjasto"
+msgstr ""
+
+msgid "Lieksan kaupunginkirjasto"
+msgstr ""
+
+msgid "Limingan kirjasto"
+msgstr ""
+
+msgid "Limingan kunnankirjasto"
+msgstr ""
+
+msgid "Lohjan kaupunginkirjasto"
+msgstr ""
+
+msgid "Lohjan kaupunginkirjato"
+msgstr ""
+
+msgid "Loimaan kaupunginkirjasto"
+msgstr ""
+
+msgid "Lopen kunnankirjasto"
+msgstr ""
+
+msgid "Loviisan kaupunginkirjasto"
+msgstr ""
+
+msgid "Luhangan kunnankirjasto"
+msgstr ""
+
+msgid "Lumijoen kirjasto Hiidenkivi"
+msgstr ""
+
+msgid "Lumijoen kunnankirjasto"
+msgstr ""
+
+msgid "Luumäen kunnankirjasto"
+msgstr ""
+
+msgid "Luvian kunnankirjasto"
+msgstr ""
+
+msgid "Marttilan kunnankirjasto"
+msgstr ""
+
+msgid "Maskun kunnankirjasto"
+msgstr ""
+
+msgid "Merijärven kunnankirjasto"
+msgstr ""
+
+msgid "Mikkelin kaupunginkirjasto"
+msgstr ""
+
+msgid "Mikkelin kaupunginkirjasto - Etelä-Savon maakuntakirjasto"
+msgstr ""
+
+msgid "Muhoksen kunnankirjasto"
+msgstr ""
+
+msgid "Muonion kunnankirjasto"
+msgstr ""
+
+msgid "Mynämäen kunnankirjasto"
+msgstr ""
+
+msgid "Myrskylän kirjasto"
+msgstr ""
+
+msgid "Mäntsälän kirjasto"
+msgstr ""
+
+msgid "Mänttä-Vilppulan kaupunginkirjasto"
+msgstr ""
+
+msgid "Mäntyharjun kunnankirjasto"
+msgstr ""
+
+msgid "Naantalin kaupunginkirjasto"
+msgstr ""
+
+msgid "Nakkilan kunnankirjasto"
+msgstr ""
+
+msgid "Nilsiän kirjasto"
+msgstr ""
+
+msgid "Nivalan kaupunginkirjasto"
+msgstr ""
+
+msgid "Nivalan kaupunginkirjasto / Tiekkö-kirjastot"
+msgstr ""
+
+msgid "Nokian kaupunginkirjasto"
+msgstr ""
+
+msgid "Nousiaisten kunnankirjasto"
+msgstr ""
+
+msgid "Nurmeksen kaupunginkirjasto"
+msgstr ""
+
+msgid "Nurmijärven kirjasto"
+msgstr ""
+
+msgid "Nurmijärven kunnankirjasto"
+msgstr ""
+
+msgid "Nykarleby stadsbibliotek"
+msgstr ""
+
+msgid "Orimattilan kaupunginkirjasto"
+msgstr ""
+
+msgid "Oripään kirjasto"
+msgstr ""
+
+msgid "Oriveden kaupunginkirjasto "
+msgstr ""
+
+msgid "Oulaisten kaupunginkirjasto"
+msgstr ""
+
+msgid "Oulaisten kaupunki/ kaupunginkirjasto"
+msgstr ""
+
+msgid "Oulun kaupunginkirjasto-maakuntakirjasto"
+msgstr ""
+
+msgid "Padasjoen kunnankirjasto"
+msgstr ""
+
+msgid "Paimion kaupunginkirjasto"
+msgstr ""
+
+msgid "Paltamon kunnankirjasto"
+msgstr ""
+
+msgid "Paraisten kirjasto"
+msgstr ""
+
+msgid "Pargas bibliotek"
+msgstr ""
+
+msgid "Pargas stadsbibliotek"
+msgstr ""
+
+msgid "Pargas stadsbibliotek / Blankabiblioteken"
+msgstr ""
+
+msgid "Pargas stadsbibliotek / Iniö och Utö bibliotek"
+msgstr ""
+
+msgid "Pargas stadsbibliotek / Pargas bibliotek"
+msgstr ""
+
+msgid "Parikkalan kirjasto"
+msgstr ""
+
+msgid "Parkanon kaupunginkirjasto"
+msgstr ""
+
+msgid "Pedersöre kommunbibliotek"
+msgstr ""
+
+msgid "Pieksämäen kaupunginkirjasto"
+msgstr ""
+
+msgid "Pirkkalan kunnankirjasto"
+msgstr ""
+
+msgid "Pomarkun kunnankirjasto"
+msgstr ""
+
+msgid "Porin kaupunginkirjasto - Satakunnan maakuntakirjasto"
+msgstr ""
+
+msgid "Pornaisten kunnankirjasto"
+msgstr ""
+
+msgid "Porvoon kaupunginkirjasto - Uudenmaan maakuntakirjasto"
+msgstr ""
+
+msgid "Posion kunnankirjasto"
+msgstr ""
+
+msgid "Pudasjärven kaupuginkirjasto"
+msgstr ""
+
+msgid "Pudasjärven kaupunginkirjasto"
+msgstr ""
+
+msgid "Pukkilan kunnankirjasto"
+msgstr ""
+
+msgid "Punkaharjun kirjasto"
+msgstr ""
+
+msgid "Punkalaitumen kirjasto"
+msgstr ""
+
+msgid "Pyhäjoen kunnankirjasto"
+msgstr ""
+
+msgid "Pyhäjärven kirjasto"
+msgstr ""
+
+msgid "Pyhännän kunnankirjasto"
+msgstr ""
+
+msgid "Pälkäneen kunnankirjasto"
+msgstr ""
+
+msgid "Pöytyän kirjasto"
+msgstr ""
+
+msgid "Raahen kaupunginkirjasto"
+msgstr ""
+
+msgid "Raision kaupunginkirjasto"
+msgstr ""
+
+msgid "Rantsilan kirjasto"
+msgstr ""
+
+msgid "Ranuan kunnankirjasto"
+msgstr ""
+
+msgid "Raseborgs stadsbibliotek"
+msgstr ""
+
+msgid "Raseborgs stadsbibliotek/ Ekenäs bibliotek"
+msgstr ""
+
+msgid "Rauman kaupunginkirjasto"
+msgstr ""
+
+msgid "Rautalammin kunnankirjasto"
+msgstr ""
+
+msgid "Rautavaaran kunnankirjasto"
+msgstr ""
+
+msgid "Riihimäen kaupunginkirjasto"
+msgstr ""
+
+msgid "Ristijärven kirjasto"
+msgstr ""
+
+msgid "Rovaniemen kaupunginkirjasto - Lapin maakuntakirjasto"
+msgstr ""
+
+msgid "Rovaniemen kaupunginkirjasto/Suomen saamelainen erikoiskirjasto"
+msgstr ""
+
+msgid "Ruoveden kunnankirjasto"
+msgstr ""
+
+msgid "Rääkkylän kirjasto"
+msgstr ""
+
+msgid "Saarijärven kaupunginkirjasto"
+msgstr ""
+
+msgid "Sallan kunnankirjasto"
+msgstr ""
+
+msgid "Sastamalan kaupunginkirjasto"
+msgstr ""
+
+msgid "Sauvon kirjasto"
+msgstr ""
+
+msgid "Sauvon kunnankirjaston asiakaspalvelutoimintojen kehittäminen"
+msgstr ""
+
+msgid "Savonlinnan kaupunginkirjasto"
+msgstr ""
+
+msgid "Seinäjoen kaupunginkirjasto"
+msgstr ""
+
+msgid "Seinäjoen kaupunginkirjasto /Ylistaron kirjasto"
+msgstr ""
+
+msgid "Seinäjoen kaupunginkirjasto-maakuntakirjasto"
+msgstr ""
+
+msgid "Seinäjoen kaupunginkirjasto/ Ylistaron kirjasto"
+msgstr ""
+
+msgid "Sibbo kommunbibliotek/Sibbo huvudbibliotek"
+msgstr ""
+
+msgid "Siikaisten kunnankirjasto"
+msgstr ""
+
+msgid "Siilinjärven kunnankirjasto"
+msgstr ""
+
+msgid "Simon kunnankirjasto"
+msgstr ""
+
+msgid "Sipoon kunnankirjasto"
+msgstr ""
+
+msgid "Sipoon kunnankirjasto / Söderkullan kirjasto"
+msgstr ""
+
+msgid "Someron kaupunginkirjasto"
+msgstr ""
+
+msgid "Sompion kirjasto"
+msgstr ""
+
+msgid "Sonkajärven kunnankirjasto"
+msgstr ""
+
+msgid "Sonkajärven kunnankirjasto, Iisalmen kaupunginkirjasto, Vieremän kunnankirjasto"
+msgstr ""
+
+msgid "Sotkamon kunnankirjasto"
+msgstr ""
+
+msgid "Stadsbiblioteket i Jakobstad / Fredrikabiblioteken"
+msgstr ""
+
+msgid "Stadsbiblioteket i Kristinestad"
+msgstr ""
+
+msgid "Stadsbiblioteket i Kristinestad Kristiinankaupungin kirjasto"
+msgstr ""
+
+msgid "Suomussalmen kunnankirjasto"
+msgstr ""
+
+msgid "Sysmän kunnankirjasto"
+msgstr ""
+
+msgid "Söderkullan kirjasto"
+msgstr ""
+
+msgid "Taivalkosken kirjasto"
+msgstr ""
+
+msgid "Taivalkosken kunnankirjasto"
+msgstr ""
+
+msgid "Tampereen kaupunginkirjasto - Pirkanmaan maakuntakirjasto"
+msgstr ""
+
+msgid "Tampereen kaupunginkirjasto – Pirkanmaan maakuntakirjasto"
+msgstr ""
+
+msgid "Tarvasjoen kirjasto"
+msgstr ""
+
+msgid "Tervolan kunnankirjasto"
+msgstr ""
+
+msgid "Teuvan kunnankirjasto"
+msgstr ""
+
+msgid "Toenperän kirjasto"
+msgstr ""
+
+msgid "Toenperän kirjasto, Juvan kirjasto"
+msgstr ""
+
+msgid "Tohmajärven kunnankirjasto"
+msgstr ""
+
+msgid "Toholammin kunnankirjasto"
+msgstr ""
+
+msgid "Toivakan kunnankirjasto"
+msgstr ""
+
+msgid "Tornion kaupunginkirjasto"
+msgstr ""
+
+msgid "Tornionlaakson kirjasto"
+msgstr ""
+
+msgid "Turun kaupunginkirjasto"
+msgstr ""
+
+msgid "Tuusulan kunnankirjasto"
+msgstr ""
+
+msgid "Tyrnävän kunnankirjasto"
+msgstr ""
+
+msgid "Urjalan kirjasto"
+msgstr ""
+
+msgid "Urjalan kunnankirjasto"
+msgstr ""
+
+msgid "Utsjoen kunnankirjasto"
+msgstr ""
+
+msgid "Uudenkaupungin kaupunginkirjasto"
+msgstr ""
+
+msgid "Uuraisten kunnankirjasto"
+msgstr ""
+
+msgid "Uuraisten kunnankirjasto, (Petäjäveden kunnankirjasto)"
+msgstr ""
+
+msgid "Uuraisten kunnankirjasto, Luhangan kunnankirjasto"
+msgstr ""
+
+msgid "Uuraisten kunnankirjasto, Saarijärven kaupunginkirjasto"
+msgstr ""
+
+msgid "Vaalan kirjasto"
+msgstr ""
+
+msgid "Vaasan kaupunginkirjasto - maakuntakirjasto"
+msgstr ""
+
+msgid "Vaasan kaupunginkirjasto-maakuntakirjasto"
+msgstr ""
+
+msgid "Valkeakosken kaupunginkirjasto"
+msgstr ""
+
+msgid "Valtimon kunnankirjasto"
+msgstr ""
+
+msgid "Vantaan kirjasto- ja tietopalvelut"
+msgstr ""
+
+msgid "Varkauden kaupunginkirjasto"
+msgstr ""
+
+msgid "Vehmaan kunnankirjasto"
+msgstr ""
+
+msgid "Vesannon kunnankirjasto"
+msgstr ""
+
+msgid "Vesilahden kirjasto"
+msgstr ""
+
+msgid "Vetelin kunnankirjasto"
+msgstr ""
+
+msgid "Vieremän kunnankirjasto"
+msgstr ""
+
+msgid "Vihdin kunnankirjasto"
+msgstr ""
+
+msgid "Vihdin kunnankirjasto "
+msgstr ""
+
+msgid "Viitasaaren ja Pihtiputaan kirjastot"
+msgstr ""
+
+msgid "Virolahden kunnankirjasto"
+msgstr ""
+
+msgid "Virtain kaupunginkirjasto"
+msgstr ""
+
+msgid "Vörå kommunbibliotek"
+msgstr ""
+
+msgid "Wiitaunionin aluekirjasto"
+msgstr ""
+
+msgid "Yleisten kirjastojen keskuskirjasto"
+msgstr ""
+
+msgid "Ylivieskan kaupunginkirjasto"
+msgstr ""
+
+msgid "Ylöjärven kaupunginkirjasto"
+msgstr ""
+
+msgid "Ähtärin kaupunginkirjasto"
+msgstr ""
+
+msgid "Äänekosken kaupunginkirjasto"
+msgstr ""
+
+msgid "Helsinki-Keskuskirjasto"
+msgstr ""
+
+msgid "Haapavesi"
+msgstr ""
+
+msgid "Honkajoki"
+msgstr ""
+
+msgid "Kankaanpää"
+msgstr ""
+
+msgid "Kemi"
+msgstr ""
+
+msgid "Kittilä"
+msgstr ""
+
+msgid "Kolari"
+msgstr ""
+
+msgid "Lieto"
+msgstr ""
+
+msgid "Lohja"
+msgstr ""
+
+msgid "Nousiainen"
+msgstr ""
+
+msgid "Posio"
+msgstr ""
+
+msgid "Savonlinna"
+msgstr ""
+
+msgid "Rovaniemi"
+msgstr ""
+
+msgid "Sodankylä"
+msgstr ""
+
+msgid "Turku"
+msgstr ""
+
+msgid "Vaasa"
+msgstr ""
+
+msgid "Valtimo"
+msgstr ""
+
+msgid "Alavieska"
+msgstr ""
+
+msgid "Alavus"
+msgstr ""
+
+msgid "Asikkala"
+msgstr ""
+
+msgid "Askola"
+msgstr ""
+
+msgid "Aura"
+msgstr ""
+
+msgid "Espoo"
+msgstr ""
+
+msgid "Forssa"
+msgstr ""
+
+msgid "Haapajärvi"
+msgstr ""
+
+msgid "Hamina"
+msgstr ""
+
+msgid "Hanko"
+msgstr ""
+
+msgid "Hankasalmi"
+msgstr ""
+
+msgid "Harjavalta"
+msgstr ""
+
+msgid "Hattula"
+msgstr ""
+
+msgid "Heinola"
+msgstr ""
+
+msgid "Heinävesi"
+msgstr ""
+
+msgid "Helsinki"
+msgstr ""
+
+msgid "Huittinen"
+msgstr ""
+
+msgid "Hyvinkää"
+msgstr ""
+
+msgid "Hämeenkyrö"
+msgstr ""
+
+msgid "Hämeenlinna"
+msgstr ""
+
+msgid "Iisalmi"
+msgstr ""
+
+msgid "Ilomantsi"
+msgstr ""
+
+msgid "Imatra"
+msgstr ""
+
+msgid "Inari"
+msgstr ""
+
+msgid "Isojoki"
+msgstr ""
+
+msgid "Jalasjärvi"
+msgstr ""
+
+msgid "Janakkala"
+msgstr ""
+
+msgid "Joensuu"
+msgstr ""
+
+msgid "Juuka"
+msgstr ""
+
+msgid "Jyväskylä"
+msgstr ""
+
+msgid "Jämsä"
+msgstr ""
+
+msgid "Kaarina"
+msgstr ""
+
+msgid "Kaavi"
+msgstr ""
+
+msgid "Kalajoki"
+msgstr ""
+
+msgid "Kangasala"
+msgstr ""
+
+msgid "Kangasniemi"
+msgstr ""
+
+msgid "Kannonkoski"
+msgstr ""
+
+msgid "Karijoki"
+msgstr ""
+
+msgid "Karkkila"
+msgstr ""
+
+msgid "Kauhajoki"
+msgstr ""
+
+msgid "Kauhava"
+msgstr ""
+
+msgid "Keitele"
+msgstr ""
+
+msgid "Kempele"
+msgstr ""
+
+msgid "Kerava"
+msgstr ""
+
+msgid "Kemiönsaari"
+msgstr ""
+
+msgid "Kirkkonummi"
+msgstr ""
+
+msgid "Kiuruvesi"
+msgstr ""
+
+msgid "Kokkola"
+msgstr ""
+
+msgid "Korsnäs"
+msgstr ""
+
+msgid "Kotka"
+msgstr ""
+
+msgid "Kouvola"
+msgstr ""
+
+msgid "Kuhmo"
+msgstr ""
+
+msgid "Kuopio"
+msgstr ""
+
+msgid "Kurikka"
+msgstr ""
+
+msgid "Kuusamo"
+msgstr ""
+
+msgid "Kärsämäki"
+msgstr ""
+
+msgid "Lahti"
+msgstr ""
+
+msgid "Laihia"
+msgstr ""
+
+msgid "Lapinjärvi"
+msgstr ""
+
+msgid "Lapinlahti"
+msgstr ""
+
+msgid "Lappeenranta"
+msgstr ""
+
+msgid "Lapua"
+msgstr ""
+
+msgid "Luoto"
+msgstr ""
+
+msgid "Laukaa"
+msgstr ""
+
+msgid "Lieksa"
+msgstr ""
+
+msgid "Luumäki"
+msgstr ""
+
+msgid "Luvia"
+msgstr ""
+
+msgid "Masku"
+msgstr ""
+
+msgid "Mikkeli"
+msgstr ""
+
+msgid "Muonio"
+msgstr ""
+
+msgid "Myrskylä"
+msgstr ""
+
+msgid "Mäntsälä"
+msgstr ""
+
+msgid "Mäntyharju"
+msgstr ""
+
+msgid "Nakkila"
+msgstr ""
+
+msgid "Nivala"
+msgstr ""
+
+msgid "Nokia"
+msgstr ""
+
+msgid "Orimattila"
+msgstr ""
+
+msgid "Orivesi"
+msgstr ""
+
+msgid "Oulainen"
+msgstr ""
+
+msgid "Oulu"
+msgstr ""
+
+msgid "Paltamo"
+msgstr ""
+
+msgid "Parainen"
+msgstr ""
+
+msgid "Parkano"
+msgstr ""
+
+msgid "Pedersören kunta"
+msgstr ""
+
+msgid "Pirkkala"
+msgstr ""
+
+msgid "Pori"
+msgstr ""
+
+msgid "Pornainen"
+msgstr ""
+
+msgid "Porvoo"
+msgstr ""
+
+msgid "Pyhäjoki"
+msgstr ""
+
+msgid "Pyhäntä"
+msgstr ""
+
+msgid "Pälkäne"
+msgstr ""
+
+msgid "Pöytyä"
+msgstr ""
+
+msgid "Raisio"
+msgstr ""
+
+msgid "Ranua"
+msgstr ""
+
+msgid "Raasepori"
+msgstr ""
+
+msgid "Rääkkylä"
+msgstr ""
+
+msgid "Saarijärvi"
+msgstr ""
+
+msgid "Salla"
+msgstr ""
+
+msgid "Seinäjoki"
+msgstr ""
+
+msgid "Siikainen"
+msgstr ""
+
+msgid "Siilinjärvi"
+msgstr ""
+
+msgid "Somero"
+msgstr ""
+
+msgid "Sonkajärvi"
+msgstr ""
+
+msgid "Tampere"
+msgstr ""
+
+msgid "Tarvasjoki"
+msgstr ""
+
+msgid "Tervola"
+msgstr ""
+
+msgid "Teuva"
+msgstr ""
+
+msgid "Tohmajärvi"
+msgstr ""
+
+msgid "Toholampi"
+msgstr ""
+
+msgid "Toivakka"
+msgstr ""
+
+msgid "Tornio"
+msgstr ""
+
+msgid "Ylitornio"
+msgstr ""
+
+msgid "Urjala"
+msgstr ""
+
+msgid "Uurainen"
+msgstr ""
+
+msgid "Valkeakoski"
+msgstr ""
+
+msgid "Vantaa"
+msgstr ""
+
+msgid "Varkaus"
+msgstr ""
+
+msgid "Vehmaa"
+msgstr ""
+
+msgid "Vihti"
+msgstr ""
+
+msgid "Viitasaari"
+msgstr ""
+
+msgid "Ylivieska"
+msgstr ""
+
+msgid "Ähtäri"
+msgstr ""
+
+msgid "Äänekoski"
+msgstr ""
+
+msgid "Enonkoski"
+msgstr ""
+
+msgid "Eura"
+msgstr ""
+
+msgid "Hartola"
+msgstr ""
+
+msgid "Hyrynsalmi"
+msgstr ""
+
+msgid "Ii"
+msgstr ""
+
+msgid "Ikaalinen"
+msgstr ""
+
+msgid "Ilmajoki"
+msgstr ""
+
+msgid "Juva"
+msgstr ""
+
+msgid "Jokioinen"
+msgstr ""
+
+msgid "Joutsa"
+msgstr ""
+
+msgid "Kajaani"
+msgstr ""
+
+msgid "Kannus"
+msgstr ""
+
+msgid "Kaustinen"
+msgstr ""
+
+msgid "Kemijärvi"
+msgstr ""
+
+msgid "Keminmaa"
+msgstr ""
+
+msgid "Kihniö"
+msgstr ""
+
+msgid "Kitee"
+msgstr ""
+
+msgid "Kruunupyy"
+msgstr ""
+
+msgid "Kuortane"
+msgstr ""
+
+msgid "Kustavi"
+msgstr ""
+
+msgid "Kyyjärvi"
+msgstr ""
+
+msgid "Liminka"
+msgstr ""
+
+msgid "Loimaa"
+msgstr ""
+
+msgid "Lumijoki"
+msgstr ""
+
+msgid "Merijärvi"
+msgstr ""
+
+msgid "Muhos"
+msgstr ""
+
+msgid "Mynämäki"
+msgstr ""
+
+msgid "Mänttä-Vilppula"
+msgstr ""
+
+msgid "Naantali"
+msgstr ""
+
+msgid "Nurmes"
+msgstr ""
+
+msgid "Nurmijärvi"
+msgstr ""
+
+msgid "Uusikaarlepyy"
+msgstr ""
+
+msgid "Oripää"
+msgstr ""
+
+msgid "Padasjoki"
+msgstr ""
+
+msgid "Pudasjärvi"
+msgstr ""
+
+msgid "Pukkila"
+msgstr ""
+
+msgid "Siikalatva"
+msgstr ""
+
+msgid "Rauma"
+msgstr ""
+
+msgid "Riihimäki"
+msgstr ""
+
+msgid "Ruovesi"
+msgstr ""
+
+msgid "Sastamala"
+msgstr ""
+
+msgid "Sauvo"
+msgstr ""
+
+msgid "Sipoo"
+msgstr ""
+
+msgid "Pietarsaari"
+msgstr ""
+
+msgid "Kristiinankaupunki"
+msgstr ""
+
+msgid "Suomussalmi"
+msgstr ""
+
+msgid "Joroinen"
+msgstr ""
+
+msgid "Tyrnävä"
+msgstr ""
+
+msgid "Uusikaupunki"
+msgstr ""
+
+msgid "Vaala"
+msgstr ""
+
+msgid "Virrat"
+msgstr ""
+
+msgid "Vöyri"
+msgstr ""
+
+msgid "Pihtipudas"
+msgstr ""
+
+msgid "Akaa"
+msgstr ""
+
+msgid "Alajärvi"
+msgstr ""
+
+msgid "Enontekiö"
+msgstr ""
+
+msgid "Halsua"
+msgstr ""
+
+msgid "Iitti"
+msgstr ""
+
+msgid "Inkoo"
+msgstr ""
+
+msgid "Isokyrö"
+msgstr ""
+
+msgid "Kaskinen"
+msgstr ""
+
+msgid "Keuruu"
+msgstr ""
+
+msgid "Kokemäki"
+msgstr ""
+
+msgid "Lempäälä"
+msgstr ""
+
+msgid "Loviisa"
+msgstr ""
+
+msgid "Luhanka"
+msgstr ""
+
+msgid "Marttila"
+msgstr ""
+
+msgid "Paimio"
+msgstr ""
+
+msgid "Pieksämäki"
+msgstr ""
+
+msgid "Pomarkku"
+msgstr ""
+
+msgid "Rautalampi"
+msgstr ""
+
+msgid "Ristijärvi"
+msgstr ""
+
+msgid "Taivalkoski"
+msgstr ""
+
+msgid "Tuusula"
+msgstr ""
+
+msgid "Vesanto"
+msgstr ""
+
+msgid "Veteli"
+msgstr ""
+
+msgid "Vieremä"
+msgstr ""
+
+msgid "Ylöjärvi"
+msgstr ""
+
+msgid "Hailuoto"
+msgstr ""
+
+msgid "Mustasaari"
+msgstr ""
+
+msgid "Kuhmoinen"
+msgstr ""
+
+msgid "Leppävirta"
+msgstr ""
+
+msgid "Loppi"
+msgstr ""
+
+msgid "Parikkala"
+msgstr ""
+
+msgid "Punkalaidun"
+msgstr ""
+
+msgid "Pyhäjärvi"
+msgstr ""
+
+msgid "Raahe"
+msgstr ""
+
+msgid "Rautavaara"
+msgstr ""
+
+msgid "Simo"
+msgstr ""
+
+msgid "Sotkamo"
+msgstr ""
+
+msgid "Sysmä"
+msgstr ""
+
+msgid "Utsjoki"
+msgstr ""
+
+msgid "Vesilahti"
+msgstr ""
+
+msgid "Virolahti"
+msgstr ""
+
+msgid "Satakunta"
+msgstr ""
+
+msgid "Uusimaa"
+msgstr ""
+
+msgid "Kymenlaakso"
+msgstr ""
+
+msgid "Pirkanmaa"
+msgstr ""
+
+msgid "Kainuu"
+msgstr ""
+
+msgid "Voit tarkentaa näkymää"
+msgstr "Barchart can be zoomed"
+
+msgid "maalaamalla palkkeja pystysuoraan"
+msgstr "by selecting the bars vertically"
+
+msgid "Nuoret aikuiset (19.-29 v.)"
+msgstr "Young adults (19-29 years)"
+
+msgid "Etsimääsi kohderyhmää ei löydy"
+msgstr "Target group you were searching for cannot be found"
+
+msgid "{0} euroa"
+msgstr "{0} euros"
+
+msgid "hyvät käytänteet"
+msgstr "good practices"
+
+msgid "Hanketyyppi"
+msgstr "Funding body"
+
+msgid "hankkeet, joille ei myönnetty rahoitusta"
+msgstr "projects that did not receive funding"
+
+msgid "Alajärven kaupunki/Alajärven kaupunginkirjasto/YTY -kirjastot (Alajärvi\t pääkirjasto ja Lehtimäen toimipiste, Evijärvi, Lappajärvi, Perho, Soini, Veteli ja Vimpeli)"
+msgstr ""
+
+msgid "Entressen kirjasto"
+msgstr ""
+
+msgid "Espoon kaupunginkirjasto (HelMet-kirjastot)"
+msgstr ""
+
+msgid "Hollolan kunnankirjasto"
+msgstr ""
+
+msgid "Humppilan kunnankirjasto"
+msgstr ""
+
+msgid "Karjalohjan kunnankirjasto"
+msgstr ""
+
+msgid "Salon kirjasto"
+msgstr ""
+
+msgid "Hollola"
+msgstr ""
+
+msgid "Humppila"
+msgstr ""
+
+msgid "Salo"
+msgstr ""
+
+msgid "seutukunnat\t"
+msgstr ""
+
+msgid "kunnan- tai kaupunginosat\t"
+msgstr ""
+
+msgid "maakunta\t"
+msgstr ""
+
+msgid "valtakunnallinen\t"
+msgstr ""
+
+msgid "ylimaakunnallinen\t"
+msgstr ""
+
+msgid "kansainvälinen\t"
+msgstr ""
+
+msgid " Kirjaston henkilökunta"
+msgstr ""
+
+msgid " Kirjaston ei-käyttäjät"
+msgstr ""
+
+msgid " Tietty ammattiryhmä (esim. opettajat)"
+msgstr ""
+
+msgid " Erityisryhmät"
+msgstr ""
+
+msgid " Nuoret (13-19  v.)"
+msgstr ""
+
+msgid " Sidosryhmät"
+msgstr ""
+
+msgid " Kirjaston asiakkaat"
+msgstr ""
+
+msgid " Lapsiperheet"
+msgstr ""
+
+msgid " Ikääntyneet"
+msgstr ""
+
+msgid "uudet hakemukset"
+msgstr ""
+
+msgid "Hyrynsalmen kunnankirjasto"
+msgstr ""
+
+msgid "Kotkan kaupunginkirjasto/ Kotkan pääkirjasto"
+msgstr ""
+
+msgid "Lukas-biblioteken genom Raseborgs stadsbibliotek"
+msgstr ""
+
+msgid "Nurmjärven kunnankirjasto"
+msgstr ""
+
+msgid "Rovaniemen kaupunginkirjasto "
+msgstr ""
+
+msgid "Rovaniemen kaupunginkirjasto _ Lapin maakuntakirjasto"
+msgstr ""
+
+msgid "Sipoon kunnankirjasto/Söderkullan kirjasto"
+msgstr ""
+
+msgid "Toenperän kirjasto,  Juvan kirjasto"
+msgstr ""
+
+msgid "Tyrnävän kunta /Pääkirjasto"
+msgstr ""
+
+msgid "Uudenkaupungin kaupunginkirjasto,  Laitilan kaupunginkirjasto ja Pyhärannan kunnankirjasto"
+msgstr ""
+
+msgid "Vaasan kaupunginkirjasto"
+msgstr ""
+
+msgid "Vasa stadsbibliotek/Brändö bibliotek"
+msgstr ""
+
+msgid " Työikäinen väestö"
+msgstr ""
+
+msgid " Lapset (alle 13 v.)"
+msgstr ""
+
+msgid " Nuoret aikuiset (19.-29 v.)"
+msgstr " Young adults (19-29 years)"
+
+msgid " Miehet"
+msgstr ""
+
+msgid " Naiset"
+msgstr ""
+
+msgid " Maahanmuuttajat"
+msgstr ""
+
+msgid " Työttömät"
+msgstr ""
+
+msgid "Klikkaamalla välitotsikkoa voit valita tai poistaa valinnat kaikista väliotsikon alaisista muuttujista kerralla."
+msgstr "By clicking the subtitle you can check or uncheck all the selections under the subtitle."
+
+msgid "Yhteistyössä"
+msgstr "In co-operation with"
+
+msgid "Tekninen toteutus"
+msgstr "Technical implementation"
+
+msgid " ja "
+msgstr " and "
+
+msgid "kokonaissumma"
+msgstr "Total amount"
+
+msgid "KOKONAISSUMMA"
+msgstr "TOTAL AMOUNT"
+
+msgid "Kaaviot"
+msgstr "Charts"
+
+msgid "Pallot"
+msgstr "Bubbles"
+
+msgid "Myönnetty rahoitus"
+msgstr "The funding allocated"
+
+msgid "Kokonaissumma"
+msgstr "Total amount"
+
+msgid "Mediakasvatus"
+msgstr "Media literacy"
+
+msgid "Tilasuunnittelu"
+msgstr "Library space planning"
+
+msgid "Lukemisen edistäminen"
+msgstr "Promoting reading"
+
+msgid "Palvelujen kehittäminen"
+msgstr "Improvement of services"
+
+msgid "Oppimisympäristö ja yhteisöllisyys"
+msgstr "Learning environment and communality"
+
+msgid "Digitointi"
+msgstr "Digitisation"
+
+msgid "Laitehankinnat"
+msgstr "Equipment acquisitions"
+
+msgid "Verkkopalvelut"
+msgstr "Online services"
+
+msgid "Kokoelmat"
+msgstr "Collections"
+
+msgid "Henkilöstön osaaminen"
+msgstr "Emploee development"
+
+msgid "Strateginen kehittäminen"
+msgstr "Strategy development"
+
+msgid "Yli miljoonan"
+msgstr "Over a million"
+
+msgid "500,000-1 miljoona"
+msgstr "500,000 - 1 million"
+
+msgid "0 euroa"
+msgstr "0 euros"
+
+msgid "< 0.01 milj. euroa"
+msgstr "< 0.01 milj. euros"
+
+msgid "{0} milj. euroa ({1}%)"
+msgstr "{0} milj. euros ({1}%)"
+
+msgid "1 hanke"
+msgstr "1 project"
+
+msgid "{0} hanketta"
+msgstr "{0} projects"
+
+msgid "1 kpl"
+msgstr "1 pcs."
+
+msgid "{0} kpl"
+msgstr "{0} pcs."
+
+msgid "ei uusia työpaikkoja"
+msgstr "no new jobs"
+
+msgid "{0} uutta työpaikkaa"
+msgstr "{0} new jobs"
+
+msgid "ei uusia yrityksiä"
+msgstr "no new "
+
+msgid "{0} uutta yritystä"
+msgstr "{0} new enterprices"
+
+msgid "ei osallistuneita yrityksiä"
+msgstr "no participant enterprices"
+
+msgid "{0} osallistunutta yritystä"
+msgstr "{0} participant enterprices"
+
+msgid "ei osallistuneita organisaatioita"
+msgstr "no participant organizations"
+
+msgid "{0} osallistunutta organisaatiota"
+msgstr "{0} participant organizations"
+
+msgid "Teemoittain"
+msgstr "Themes"
+
+msgid "Maakunnittain"
+msgstr "Region"
+
+msgid "Kunnittain"
+msgstr "Municipality"
+
+msgid "Vaikutusalueittain"
+msgstr "Area"
+
+msgid "Kohderyhmittäin"
+msgstr "Target group"
+
+msgid "Avi-alueittain"
+msgstr "Regional state administrative agency area (AVI)"
+
+msgid "Vuosittain"
+msgstr "Year"
+
+msgid "Rahoittajittain"
+msgstr "Funding body"
+
+msgid "Koon mukaan"
+msgstr "Size"
+
+msgid "Yhteensä"
+msgstr "Total"
+
+msgid "Pohjois-Pohjanmaa"
+msgstr "Northern Ostrobothnia"
+
+msgid "Lappi"
+msgstr "Lapland"
+
+msgid "Varsinais-Suomi"
+msgstr "Southwest Finland"
+
+msgid "Pohjanmaa"
+msgstr "Ostrobothnia"
+
+msgid "Etelä-Savo"
+msgstr "Southern Savonia"
+
+msgid "Pohjois-Karjala"
+msgstr "North Karelia"
+
+msgid "Satakunta"
+msgstr "Satakunta"
+
+msgid "Etelä-Pohjanmaa"
+msgstr "Southern Ostrobothnia"
+
+msgid "Pirkanmaa"
+msgstr "Pirkanmaa"
+
+msgid "Pohjois-Savo"
+msgstr "Northern Savonia"
+
+msgid "Kanta-Häme"
+msgstr "Tavastia Proper"
+
+msgid "Keski-Suomi"
+msgstr "Central Finland"
+
+msgid "Etelä-Karjala"
+msgstr "South Karelia"
+
+msgid "Uusimaa-Keskuskirjasto"
+msgstr "Uusimaa Central Library"
+
+msgid "Päijät-Häme"
+msgstr "Päijänne Tavastia"
+
+msgid "Keski-Pohjanmaa"
+msgstr "Central Ostrobothnia"
+
+msgid "kunnat"
+msgstr "municipalities"
+
+msgid "maakunta"
+msgstr "region"
+
+msgid "kunnan- tai kaupunginosat"
+msgstr "parts of municipality or city"
+
+msgid "valtakunnallinen"
+msgstr "nationwide"
+
+msgid "seutukunnat"
+msgstr "sub-regions"
+
+msgid "ylimaakunnallinen"
+msgstr "several regions"
+
+msgid "kansainvälinen"
+msgstr "international"
+
+msgid "Kirjaston asiakkaat"
+msgstr "All library users"
+
+msgid "Kirjaston henkilökunta"
+msgstr "Library staff"
+
+msgid "Lapset (alle 13 v.)"
+msgstr "Children (under 13 years)"
+
+msgid "Nuoret (13-19 v.)"
+msgstr "Adolescents (13-19 years)"
+
+msgid "Nuoret (13-19  v.)"
+msgstr "Adolescents (13-19 years)"
+
+msgid "Ikääntyneet"
+msgstr "Elderly people"
+
+msgid "Kirjaston ei-käyttäjät"
+msgstr "Library non-users"
+
+msgid "Tietty ammattiryhmä (esim. opettajat)"
+msgstr "Specific occupational groups (e.g. teachers)"
+
+msgid "Sidosryhmät"
+msgstr "Interest groups"
+
+msgid "Erityisryhmät"
+msgstr "Special groups"
+
+msgid "Lapsiperheet"
+msgstr "Families with children"
+
+msgid "Maahanmuuttajat"
+msgstr "Immigrants"
+
+msgid "Nuoret aikuiset (19-29 v.)"
+msgstr "Young adults (19-29 years)"
+
+msgid "Työikäinen väestö"
+msgstr "Working age people"
+
+msgid "Työttömät"
+msgstr "Unemployed people"
+
+msgid "Miehet"
+msgstr "Men"
+
+msgid "Naiset"
+msgstr "Women"
+
+msgid "Etelä-Suomi"
+msgstr "Southern Finland"
+
+msgid "Länsi-ja Sisä-Suomi"
+msgstr "Western and Inland Finland"
+
+msgid "Länsi- ja Sisä-Suomi"
+msgstr "Western and Inland Finland"
+
+msgid "Itä-Suomi"
+msgstr "Eastern Finland"
+
+msgid "Lounais-Suomi"
+msgstr "Southwest Finland"
+
+msgid "Pohjois-Suomi"
+msgstr "Northern Finland"
+
+msgid "ELY"
+msgstr "Centre for Economic Development, Transport and the Environment"
+
+msgid "ELY / AVI"
+msgstr "Regional State Administrative Agency"
+
+msgid "OKM"
+msgstr "Ministry of Education and Culture"
+
+msgid "Opetus- ja kulttuuriministeriö"
+msgstr "Ministry of Education and Culture"
+
+msgid "suomenkielinen"
+msgstr "Finnish"
+
+msgid "fi"
+msgstr "Finnish"
+
+msgid "sv"
+msgstr "Swedish"
+
+msgid "ruotsinkielinen"
+msgstr "Swedish"
+
+msgid "Hankerekisterin visualisointi - Hyvät käytänteet"
+msgstr "Library project register visualisation - Good practices"
+
+msgid "Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Tämän visualisoinnin avulla voit tutustua kirjastojen erilaisiin hyviin käytänteisiin."
+msgstr "Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore the public libraries good practices."
+
+msgid "Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Visualisoinnin avulla voit tutustua kirjastojen kehittämishankkeisiin."
+msgstr "Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore the public library development projects in Finland. "
+
+msgid "Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Tämän visualisoinnin avulla voit tutustua niihin haettuihin kehittämishankkeisiin, joille ei myönnetty tukea."
+msgstr "Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore those public library development projects, that did not receive funding."
+
+msgid "Tervetuloa yleisten kirjastojen hankerekisterin visualisointiin. Tämän visualisoinnin avulla voit tutustua vuoden 2016 hakukierroksella jätettyihin kehittämishankeavustuksiin."
+msgstr "Welcome to the visualisation of the Finnish public library project register. This visualisation tool will help you explore the autumn 2016 submitted funding applications for public library development projects in Finland."
+
+msgid "Yksi pallo edustaa yhtä hanketta. Pallon koko kertoo, kuinka paljon avustusta hankkeelle on haettu. Viemällä hiirenosoittimen pallon päälle saa hankkeesta lisätietoa. Palloa klikkaamalla pääsee hankkeen nettisivuille."
+msgstr "One sphere represents one project. The size of the sphere indicates the amount of funding applied for the project. For more information on the project, move cursor above the sphere. Click the sphere to move to a specific project website (only in Finnish/Swedish)."
+
+msgid "Yksi pallo edustaa yhtä hyvää käytäntöä. Viemällä hiirenosoittimen pallon päälle saa käytänteestä lisätietoa. Palloa klikkaamalla pääsee käytänteen nettisivuille."
+msgstr "One sphere represents one good practice. For more information on the practice, move cursor above the sphere. Click the sphere to move to a specific pracice website (only in Finnish/Swedish)."
+
+msgid "Kuinka visualisointi toimii"
+msgstr "How does the visualisation work?"
+
+msgid "Yksi pallo edustaa yhtä hanketta. Pallon koko kertoo, kuinka paljon avustusta hankkeelle on myönnetty. Viemällä hiirenosoittimen pallon päälle saa hankkeesta lisätietoa. Palloa klikkaamalla pääsee hankkeen nettisivuille."
+msgstr "One sphere represents one project. The size of the sphere indicates the amount of funding granted to the project. For more information on the project, move cursor above the sphere. Click the sphere to move to a specific project website (only in Finnish/Swedish)."
+
+msgid "Visualisointi ei valitettavasti toimi vanhemmilla internet-selaimilla (esim. IE8 ja sitä vanhemmat)."
+msgstr "The visualisation does not unfortunately work on older internet-browsers (e.g. IE8 and older)."
+
+msgid "Pylväskuviossa näytettävän jakauman voi valita yläpalkin \"tarkastele\"-valikoista. Palkkien väritystä voi muuttaa vasemmassa sivupalkissa olevasta valikosta. Suodattimista on mahdollista rajata kuvioon laskettavien hankkeiden määrää."
+msgstr "Shown bars in the barchart can be changed by clicking the \"view by\" buttons on the top menu bar. Colours can be changed from the menu on the left. Calculated projects can be filtered from the filters-menu"
+
+msgid "Voit myös vaihtaa palkkien asettelua sivupalkin painikkeista \"pinottu\" ja \"rinnakkain\". Palkkikaavion näkymää voi myös suurentaa \"maalaamalla\" palkkeja pystysuoraan."
+msgstr "The arranging of the bars can be changed from the \"stacked\" and \"normal\" -buttons. Barchart can zoomed by \"painting\" the bars vertically."
+
+msgid "Kaaviopohjaisen visualisointitoteutuksen perustana ovat hankkeiden saamat avustussummat yhteensä. Visualisoinnin yläpalkin tarkastele-painikkeista voi vaihtaa pylväskaavion y-akselin luokittelua. Oletusarvoisesti graafi näyttää kaikki luokat \"Yhteensä\"."
+msgstr "Shown bars in the barchart can be changed by clicking the \"view by\" buttons on the top menu bar. Colours can be changed from the menu on the left. Calculated projects can be filtered from the filters-menu."
+
+msgid "Kaaviopohjaisen visualisointitoteutuksen perustana ovat hankkeiden hakemat avustussummat yhteensä. Visualisoinnin yläpalkin \"tarkastele\"-valikoista voi vaihtaa pylväskaavion y-akselin luokittelua. Oletusarvoisesti graafi näyttää kaikki luokat \"Yhteensä\"."
+msgstr "Shown bars in the barchart can be changed by clicking the \"view by\" buttons on the top menu bar. Colours can be changed from the menu on the left. Calculated projects can be filtered from the filters-menu."
+
+msgid "Sivun ylälaidan tarkastele-painikkeista voi vaihtaa pylväskaavion y-akselin luokittelua. Oletusarvoisesti graafi näyttää kaikki luokat \"Yhteensä\"."
+msgstr "Shown bars in the barchart can be changed by clicking the \"view by\" buttons on the top menu bar. Colours can be changed from the menu on the left. Calculated projects can be filtered from the filters-menu."
+
+msgid "Väriselitteen luokkia voi vaihtaa sivun vasemmalla laidalla olevasta Väriselitteen luokittelu -valikosta. Samassa yhteydessä on Suodattimet -valikko, jonka kautta voit rajata haettuja summia vuoden, teeman, alueen ja kirjaston mukaan. Voit myös vaihtaa kaavioiden muotoa sivupalkin painikkeista \"Pinottu\" ja \"Rinnakkain\". Kaavion näkymää voit suurentaa \"maalaamalla\" pylväitä pystysuoraan."
+msgstr "The arranging of the bars can be changed from the \"stacked\" and \"normal\" -buttons. Barchart can zoomed by \"painting\" the bars vertically."
+
+msgid "Väriselitteen luokkia voi vaihtaa sivun vasemmalla laidalla olevasta Väriselitteen luokittelu -valikosta. Samassa yhteydessä on Suodattimet -valikko, jonka kautta voit rajata avustussummia vuoden, teeman, alueen ja kirjaston mukaan.  Voit myös vaihtaa kaavioiden muotoa sivupalkin painikkeista \"Pinottu\" ja \"Rinnakkain\". Kaavion näkymää voit suurentaa \"maalaamalla\" pylväitä pystysuoraan."
+msgstr "The arranging of the bars can be changed from the \"stacked\" and \"normal\" -buttons. Barchart can zoomed by \"painting\" the bars vertically."
+
+msgid "Ylälaidan painikkeista voi vaihtaa visualisoinnin muotoa pallojen ja kaavion välillä. Myös näytettävää tietokantaa on mahdollista vaihtaa. Yksittäisiin hankkeisiin pääset pallovisualisoinnin tai Hankerekisterin tietokannan kautta http://hankkeet.kirjastot.fi/"
+msgstr "The visualisation type can be changed between bubbles and diagrams from the buttons in the top menu bar. Also the shown database can be changed."
+
+msgid "Valitse visualisointi"
+msgstr "Select chart"
+
+msgid "Tarkastele"
+msgstr "View by"
+
+msgid "Kaaviot"
+msgstr "Charts"
+
+msgid "Hankerekisterin<b> Visualisointi </b>"
+msgstr "Project register <b>Visualisation</b>"
+
+msgid "Paluu hankerekisteriin"
+msgstr "Return to project register"
+
+msgid "Vaihda väritystä"
+msgstr "Change color"
+
+msgid "Väriselitteen luokittelu"
+msgstr "Color classification"
+
+msgid "Suodattimet"
+msgstr "Filters"
+
+msgid "Toteuttajan nimi"
+msgstr "Host institution"
+
+msgid "Teema"
+msgstr "Theme"
+
+msgid "Maakunta"
+msgstr "Region"
+
+msgid "Kunta"
+msgstr "Municipality"
+
+msgid "Vaikutusalue"
+msgstr "Area"
+
+msgid "Kohderyhmät"
+msgstr "Target groups"
+
+msgid "Rahoittaja"
+msgstr "Funding body"
+
+msgid "Vuosi"
+msgstr "Year"
+
+msgid "Myönnetty avustus"
+msgstr "Awarded funds"
+
+msgid "Haettu avustus"
+msgstr "Applied funding"
+
+msgid "Oma rahoitus"
+msgstr "Own funding"
+
+msgid "Tutustu hankkeeseen tarkemmin"
+msgstr "Read more about project"
+
+msgid "Kieli"
+msgstr "Language"
+
+msgid "käytännettä"
+msgstr "practices"
+
+msgid "Hyvät käytänteet"
+msgstr "Good practises"
+
+msgid "Hankkeet, joille ei myönnetty tukea"
+msgstr "Projects that did not receive funding"
+
+msgid "Hyväksytyt hankkeet"
+msgstr "Approved projects"
+
+msgid "Uudet hankehakemukset"
+msgstr "New project funding applications"
+
+msgid "Hankerekisterin visualisointi - Hankkeet, joille ei myönnetty rahoitusta"
+msgstr "Project register visualisation - Projects that did not receive funding"
+
+msgid "Hankerekisterin Visualisointi"
+msgstr "Project register Visualisation"
+
+msgid "Hankerekisterin visualisointi - Uudet hakemukset"
+msgstr "Project register visualisation - New project funding applications "
+
+msgid "Näytä info"
+msgstr "Show info"
+
+msgid "Piilota info"
+msgstr "Hide info"
+
+msgid "Lähetä palautetta"
+msgstr "Give feedback"
+
+msgid "Tarkastele kohderyhmittäin"
+msgstr "View by target group"
+
+msgid "Etsi hanketta nimeltä"
+msgstr "Search project by name"
+
+msgid "Lataa"
+msgstr "Export"
+
+msgid "Tulosta kaavio"
+msgstr "Print chart"
+
+msgid "Lataa PNG-kuva"
+msgstr "Download PNG-image"
+
+msgid "Lataa JPEG-kuva"
+msgstr "Download JPEG-image"
+
+msgid "Lataa PDF-dokumentti"
+msgstr "Download PDF-document"
+
+msgid "Lataa SVG-kuva"
+msgstr "Download SVG-vector-image"
+
+msgid "Lataa CSV-tiedosto"
+msgstr "Download CSV-file"
+
+msgid "Lataa XLS-tiedosto"
+msgstr "Download XLS-file"
+
+msgid "Aluehallintovirasto"
+msgstr "Regional State Administrative Agency Area (Avi)"
+
+msgid "Toteuttaja"
+msgstr "Host institution"
+
+msgid "Pinottu"
+msgstr "Stacked"
+
+msgid "Rinnakkain"
+msgstr "Normal"
+
+msgid "Vaihda palkkien asettelua"
+msgstr "Change chart layout"
+
+msgid "Tietokanta"
+msgstr "Database"
+
+msgid "(yhteensä {0} €)"
+msgstr "(total {0} €)"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Väriselite"
+msgstr "Legend"
+
+msgid "ja {0} muuta"
+msgstr " and {0} anothers"
+
+msgid "Valitse kaikki"
+msgstr "Select all"
+
+msgid "Poista kaikki"
+msgstr "Unselect all"
+
+msgid "Kirjoita hakusana"
+msgstr "Filter"
+
+msgid "Visualisointi"
+msgstr "Visualisation"
+
+msgid "Etsi"
+msgstr "Search"
+
+msgid "Rajaa"
+msgstr "Filter projects"
+
+msgid "Rajaa hankkeiden määrää"
+msgstr "Filter projects"
+
+msgid "Voit tarkentaa näkymää"
+msgstr "Barchart can be zoomed"
+
+msgid "maalaamalla palkkeja pystysuoraan"
+msgstr "by selecting the bars vertically"
+
+msgid "Etsimääsi kohderyhmää ei löydy"
+msgstr "Target group you were searching for cannot be found"
+
+msgid "{0} euroa"
+msgstr "{0} euros"
+
+msgid "hyvät käytänteet"
+msgstr "good practices"
+
+msgid "Hanketyyppi"
+msgstr "Funding body"
+
+msgid "hankkeet, joille ei myönnetty rahoitusta"
+msgstr "projects that did not receive funding"
+
+msgid "Klikkaamalla välitotsikkoa voit valita tai poistaa valinnat kaikista väliotsikon alaisista muuttujista kerralla."
+msgstr "By clicking the subtitle you can check or uncheck all the selections under the subtitle."
+
+msgid "Muuttujat on jaoteltu väliotsikoihin ja väliotsikon nimeä klikkaamalla voi poistaa kaikki sen alaiset valinnat tai uudestaan klikkaamalla palauttaa takaisin. Yksittäisiä muuttujia voit poistaa tai lisätä ottamalla ruksin pois tai lisäämällä sen takaisin."
+msgstr "By clicking the subtitle you can check or uncheck all the selections under the subtitle."
+
+msgid "Yhteistyössä"
+msgstr "In co-operation with"
+
+msgid "Tekninen toteutus"
+msgstr "Technical implementation"
+
+msgid "ja"
+msgstr " and "
+
+msgid "Kokonaissumma"
+msgstr "Total amount"
+
+msgid "KOKONAISSUMMA"
+msgstr "TOTAL AMOUNT"
+
+msgid "(Yksittäinen hanke voi sisältää useampia kohderyhmiä. Kohderyhmiin kohdistettuja summia ei täten voi laskea yhteen.)"
+msgstr "(Single project can contain multiple target groups. Therefore the funding targeted to target groups cannot be added together.)"
+
+msgid "Hankesivu"
+msgstr ""
+
+msgid "Vuoden {0} {1} -hanke"
+msgstr "Year {0} {1} project"
+
+msgid "Suomi"
+msgstr "Finnish"
+
+msgid "Ruotsi"
+msgstr "Swedish"
+
+msgid "Englanti"
+msgstr "English"
+
+msgid "Kartta"
+msgstr "Map"
+
+msgid "Kartan yksiköt"
+msgstr "Map units"
+
+msgid "Karttapohja"
+msgstr "Map base"
+
+msgid "Useita teemoja"
+msgstr "Multiple themes"
+
+msgid "Aloita valitsemalla yksi tai useampi teema.<br> Klikkaamalla kuntaa näet lisätietoja kunnan projekteista."
+msgstr "Start by choosing one or several themes.<br> By clicking an area you are shown a list of areas projects."
+
+msgid "Eniten"
+msgstr "Most"
+
+msgid "projekteja teemoissa"
+msgstr "projects in themes"
+
+msgid "rahoitusta saaneet teemat"
+msgstr "funded themes"
+
+msgid "haettua rahoitusta teemoihin"
+msgstr "applied funding in themes"
+
+msgid "projektien haettu rahoitus"
+msgstr "applied funding"
+
+msgid "projektien määrä"
+msgstr "number of projects"
+
+msgid "projektien rahoitus"
+msgstr "funding of projects"
+
+msgid "Ei teemoja valittuna"
+msgstr "No selected themes"
+
+msgid "AVI-alueittain"
+msgstr "by AVI-areas"
+
+msgid "maakunnittain"
+msgstr "by regions"
+
+msgid "kunnittain"
+msgstr "by municipalities"
+
+msgid "Karttapohjaisen visualisoinnin avulla voi tutkia millaisia hankkeita on toteutettu eri puolilla Suomea. Hankkeet on luokiteltu niiden teemojen mukaan. Kartta toimii siten, että kun vasemmalla olevasta teema-valikosta on valittuna teema, näyttää kartta missä kunnissa ja kuinka paljon kyseisen teeman hankkeet ovat saaneet rahoitusta. Jos valittuna on kaksi tai useampi teema, värjäytyy kartta sen mukaan, mikä teema on kussakin kunnassa saanut eniten rahoitusta. Mikäli samassa kunnassa useampi teema on saanut saman verran rahoitusta, näkyy se kartalla viivoitettuna. Jos kartan yksiköksi on valittuna \"Kpl\", toimii sama logiikka silloin kappaleina. Jos karttapohjaksi on valittuna maakunnat tai AVI-alueet, toimii kartan logiikka kyseisten alueiden mukaisesti."
+msgstr "Mapvisualisation tool will help you explore geographically what kind of public library development projects have been implemented in Finland. Projects are classified by themes. By choosing a theme from the left menu, map will show how much funding or projects the chosen theme has across country. If multiple themes have the same amount of funding or projects in an area, it will be shown with a black and white pattern."
+
+msgid "Karttapohjaisen visualisoinnin avulla voi tutkia millaisiin hankkeisiin on haettu rahoitusta eri puolilla Suomea. Hankkeet on luokiteltu niiden teemojen mukaan. Kartta toimii siten, että kun vasemmalla olevasta teema-valikosta on valittuna jokin teema, näyttää kartta missä kunnissa ja kuinka paljon kyseisen teeman hankkeet ovat hakeneet rahoitusta. Jos valittuna on kaksi tai useampi teema, värjätyy kartta sen mukaan, mihin teemaan on kussakin kunnassa haettu eniten rahoitusta. Mikäli samassa kunnassa useammalle teemalle on haettu saman verran rahoitusta, näkyy se kartalla viivoitettuna. Jos kartan yksiköksi on valittuna \"Kpl\", toimii sama logiikka silloin kappaleina."
+msgstr "Mapvisualisation tool will help you explore geographically the submitted funding applications for public library development projects in Finland. Projects are classified by themes. By choosing a theme from the left menu, map will show how much funding or projects the chosen theme has across country. If multiple themes have the same amount of funding or projects in an area, it will be shown with a black and white pattern."
+
+msgid "Viemällä hiirenosoittimen kunnan ylle, saa lisätietoa eri teemoihin myönnetyn hankerahoituksen määrästä kunnassa. Klikkaamalla kuntaa, avautuu oikealle lista kunnan hankkeista. Jos tuosta listasta klikkaa hankkeen nimeä, avautuu hankkeen perustiedot-infolaatikko."
+msgstr "By moving the cursor above an area, you can see how much funding different themes received. By clicking an area you get a list of the areas projects, from where you can click a project to move to its specific project info."
+
+msgid "Viemällä hiirenosoittimen kunnan ylle, saa lisätietoa eri teemoihin haetun hankerahoituksen määrästä kunnassa. Klikkaamalla kuntaa, avautuu oikealle lista kunnan hankkeista. Jos tuosta listasta klikkaa hankkeen nimeä, avautuu hankkeen perustiedot-infolaatikko. Kartan hankkeita voi myös rajata vuoden mukaan Suodattimet-pudotusvalikosta."
+msgstr "By moving the cursor above an area, you can see how much funding has been applied for different themes. By clicking an area you get a list of the areas projects, from where you can click a project to move to its specific project info."
+
+msgid "Sivun ylälaidan painikkeista voi vaihtaa visualisoinnin muotoa kaavion, pallojen ja kartan välillä. Myös näytettävää tietokantaa on mahdollista vaihtaa. Yksittäisiin hankkeisiin pääset pallo- ja karttavisualisoinnin tai <a href=\"http://hankkeet.kirjastot.fi/\" target=\"_blank\">Hankerekisterin tietokannan</a> kautta."
+msgstr "The visualisation type can be changed between diagrams, bubbles and map from the buttons in the top menu bar. Also the shown database can be changed."
+
+msgid "Kaikki visualisointinäkymään tehdyt muutokset tallentuvat osoitekenttään. Sivun ylälaidan oikeassa reunassa on pudotusvalikko, josta voi valita sosiaalisen median, jossa jakaa visualisointinäkymä. Osoitekentän linkin voi myös kopioida itse ja lähettää eteenpäin, mutta sen saa myös lyhennetyssä muodossa, jos valitsee pudotusvalikon ensimmäisen vaihtoehdon."
+msgstr "All selections made in the visualisation are saved in the address bar (url). In the top right corner of the page there is a dropdown menu from where you can share the visualisation. It is also possible to copy and forward the address field link yourself, but it also becomes available in abbreviated form if you select the first option in the drop-down menu."
+
+msgid "piilotettua projektia"
+msgstr "hidden projects"
+
+msgid "piilotettu projekti"
+msgstr "hidden project"
+
+msgid "Euro"
+msgstr "Euros"
+
+msgid "Kpl"
+msgstr "Pcs"
+
+msgid "projekti"
+msgstr "project"
+
+msgid "projektia"
+msgstr "projects"
+
+msgid "Kopioi tämä linkki"
+msgstr "Copy this link"
+
+msgid "Kopioi ja sulje"
+msgstr "Copy and close"
+
+msgid "Nollaa asetukset"
+msgstr "Reset"
+
+msgid "Alueellinen kehittämistehtävä"
+msgstr "National development responsibility"
+
+msgid "Kehittämiskirjasto: "
+msgstr "Development Library: "
+
+msgid "Kehittämiskirjasto: Joensuu"
+msgstr "Development Library: Joensuu"
+
+msgid "Kehittämiskirjasto: Rovaniemi"
+msgstr "Development Library: Rovaniemi"
+
+msgid "Kehittämiskirjasto: Porvoo"
+msgstr "Development Library: Porvoo"
+
+msgid "Kehittämiskirjasto: Oulu"
+msgstr "Development Library: Oulu"
+
+msgid "Kehittämiskirjasto: Vaasa"
+msgstr "Development Library: Vaasa"
+
+msgid "Kehittämiskirjasto: Kuopio"
+msgstr "Development Library: Kuopio"
+
+msgid "Kehittämiskirjasto: Lahti"
+msgstr "Development Library: Lahti"
+
+msgid "Kehittämiskirjasto: Tampere"
+msgstr "Development Library: Tampere"
+
+msgid "Kehittämiskirjasto: Turku"
+msgstr "Development Library: Turku"
+
+msgid "Hankeyhteistyö"
+msgstr "Project co-operation"
+
+msgid "Yhden toteuttajan hanke"
+msgstr "Project with one executor"
+
+msgid "Yhteistyöhanke"
+msgstr "Co-operation project"
+
+msgid "Yhteistyöhanke"
+msgstr "Co-operation project"
+
+msgid "Päätoteuttajana"
+msgstr "As main executor"
+
+msgid "Päätoteuttaja"
+msgstr "Main executor"
+
+msgid "Kumppanina"
+msgstr "As partner"
+
+msgid "Hankkeen toteuttaja"
+msgstr "Project executor"
+
+msgid "Yhteistyökunnat"
+msgstr "Co-operation municipalities"
+
+msgid "Kehittämiskirjastot"
+msgstr "Development libraries"
+

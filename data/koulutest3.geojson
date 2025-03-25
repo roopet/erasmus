@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3067" } },
+"features": [
+{ "type": "Feature", "properties": { "Maa": "Finland", "Kunta": "Akaa", "id": "Pappilan koulu", "Osoite": "Pappilan koulu", "Keskiarvo": "2,4", "addrtype": "establishment", "addrlocat": "APPROXIMATE" }, "geometry": { "type": "Point", "coordinates": [ 330624.816, 6787066.035 ] } },
+{ "type": "Feature", "properties": { "Maa": "Finland", "Kunta": "Espoo", "id": "vindängen", "Osoite": "vindängen", "Keskiarvo": "2", "addrtype": "establishment", "addrlocat": "APPROXIMATE" }, "geometry": { "type": "Point", "coordinates": [ 377879.875, 6672450.482 ] } },
+{ "type": "Feature", "properties": { "Maa": "Finland", "Kunta": "Juva", "id": "Paatelan koulu", "Osoite": "Paatelan koulu", "Keskiarvo": "2,6", "addrtype": "establishment", "addrlocat": "APPROXIMATE" }, "geometry": { "type": "Point", "coordinates": [ 554776.337, 6865221.623 ] } },
+{ "type": "Feature", "properties": { "Maa": "Finland", "Kunta": "Posio", "id": "Posion peruskoulu", "Osoite": "Posion peruskoulu", "Keskiarvo": "3,8", "addrtype": "establishment", "addrlocat": "APPROXIMATE" }, "geometry": { "type": "Point", "coordinates": [ 553034.965, 7332840.468 ] } },
+{ "type": "Feature", "properties": { "Maa": "Finland", "Kunta": "Jyväskylä", "id": "Lohikosken koulu", "Osoite": "Lohikosken koulu", "Keskiarvo": "2,8", "addrtype": "establishment", "addrlocat": "APPROXIMATE" }, "geometry": { "type": "Point", "coordinates": [ 435708.631, 6904437.896 ] } },
+{ "type": "Feature", "properties": { "Maa": "Finland", "Kunta": "Utsjoki", "id": "Karigasniemen peruskoulu", "Osoite": "Karigasniemen peruskoulu", "Keskiarvo": "2", "addrtype": "establishment", "addrlocat": "APPROXIMATE" }, "geometry": { "type": "Point", "coordinates": [ 453881.051, 7701956.521 ] } },
+{ "type": "Feature", "properties": { "Maa": "Finland", "Kunta": "Uusikaarlepyy", "id": "Jeppo-Pensala", "Osoite": "Jeppo-Pensala", "Keskiarvo": "3,1", "addrtype": "route", "addrlocat": "GEOMETRIC_CENTER" }, "geometry": { "type": "Point", "coordinates": [ 281601.673, 7036297.608 ] } },
+{ "type": "Feature", "properties": { "Maa": "Finland", "Kunta": "Virrat", "id": "Vaskiveden koulu", "Keskiarvo": "2,4", "osoite": "Vaskivedentie 1470", "postipaikk": "Vaskivesi", "addrtype": "street_address", "addrlocat": "ROOFTOP" }, "geometry": { "type": "Point", "coordinates": [ 326165.55802, 6894519.08273 ] } }
+]
+}

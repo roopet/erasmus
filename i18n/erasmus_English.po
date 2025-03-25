@@ -1,0 +1,818 @@
+
+#:
+msgctxt "SV"
+msgid "EN"
+msgstr "FI"
+
+#:
+msgctxt "Jordbruk, skogsbruk och fiske"
+msgid "Agriculture, forestry and fisheries"
+msgstr "Maa- ja metsätalous ja kalastus"
+
+#:
+msgctxt "EU-medborgarskap, EU-medvetenhet och demokrati"
+msgid "EU Citizenship, EU awareness and Democracy"
+msgstr "Euroopan unionin kansalaisuus, EU-tietoisuus ja demokratia"
+
+#:
+msgctxt "IKT – ny teknik – digitala kompetenser"
+msgid "ICT - new technologies - digital competences"
+msgstr "TVT – uusi teknologia – digiosaaminen"
+
+#:
+msgctxt "Kreativitet och kultur"
+msgid "Creativity and culture"
+msgstr "Luovuus ja kulttuuri"
+
+#:
+msgctxt "Funktionshinder – särskilda behov"
+msgid "Disabilities - special needs"
+msgstr "Vammaisuus – erityistarpeet"
+
+#:
+msgctxt "Tillgång för missgynnade"
+msgid "Access for disadvantaged"
+msgstr "Heikommassa asemassa olevien osallistumismahdollisuudet"
+
+#:
+msgctxt "Tidiga skolavhopp/bekämpa problem i utbildning"
+msgid "Early School Leaving / combating failure in education"
+msgstr "Koulunkäynnin keskeyttäminen / opinnoissa epäonnistumisen torjuminen"
+
+#:
+msgctxt "Ekonomiska och finansiella frågor (inklusive finansieringsproblem)"
+msgid "Economic and financial affairs (incl. funding issues)"
+msgstr "Talous- ja rahoitusasiat"
+
+#:
+msgctxt "Social dialog"
+msgid "Social dialogue"
+msgstr "Sosiaalinen vuoropuhelu"
+
+#:
+msgctxt "Arbetsmarknadsfrågor inklusive karriärsvägledning/ungdomsarbetslöshet"
+msgid "Labour market issues incl. career guidance / youth unemployment"
+msgstr "Työmarkkinat, ml. uraohjaus/nuorisotyöttömyys"
+
+#:
+msgctxt "Energi och resurser"
+msgid "Energy and resources"
+msgstr "Energia ja resurssit"
+
+#:
+msgctxt "Miljö och klimatförändringar"
+msgid "Environment and climate change"
+msgstr "Ympäristö ja ilmastonmuutos"
+
+#:
+msgctxt "Etik, religion och filosofi (inklusive dialog mellan religioner)"
+msgid "Ethics, religion and philosophy (incl. Inter-religious dialogue)"
+msgstr "Etiikka, uskonto ja filosofia (ml. uskontojen välinen vuoropuhelu)"
+
+#:
+msgctxt "Jämställdhet/lika möjligheter"
+msgid "Gender equality / equal opportunities"
+msgstr "Sukupuolten tasa-arvo / yhtäläiset mahdollisuudet"
+
+#:
+msgctxt "Hälsa och välbefinnande"
+msgid "Health and wellbeing"
+msgstr "Terveys ja hyvinvointi"
+
+#:
+msgctxt "Hem- och rättsfrågor (mänskliga rättigheter; rättsstatsprincipen)"
+msgid "Home and justice affairs (human rights; rule of law)"
+msgstr "Oikeus- ja sisäasiat (ihmisoikeudet; oikeusvaltio)"
+
+#:
+msgctxt "Inkludering – jämlikhet"
+msgid "Inclusion - equity"
+msgstr "Osallisuus – oikeudenmukaisuus"
+
+#:
+msgctxt "Interkulturell/intergenerationell utbildning och (livslångt) lärande"
+msgid "Intercultural/intergenerational education and (lifelong)learning"
+msgstr "Kulttuurienvälinen/ylisukupolvinen koulutus ja (elinikäinen) oppiminen"
+
+#:
+msgctxt "Internationellt samarbete, internationella relationer, utvecklingssamarbete"
+msgid "International cooperation, international relations, development cooperation"
+msgstr "Kansainvälinen yhteistyö, kansainväliset suhteet, kehitysyhteistyö"
+
+#:
+msgctxt "Nyckelfärdigheter (inklusive matematik och läskunnighet) – grundläggande färdigheter"
+msgid "Key Competences (incl. mathematics and literacy) - basic skills"
+msgstr "Avaintaidot (ml. matematiikka ja luku- ja kirjoitustaito) – perustaidot"
+
+#:
+msgctxt "Nya innovativa läroplaner/utbildningsmetoder/utvecklingar av utbildningskurser"
+msgid "New innovative curricula/educational methods/development of training courses"
+msgstr "Uudet innovatiiviset opetussuunnitelmat/koulutusmenetelmät ja koulutuskurssien kehittäminen"
+
+#:
+msgctxt "Pedagogik och didaktik"
+msgid "Pedagogy and didactics"
+msgstr "Pedagogiikka ja opetusoppi"
+
+#:
+msgctxt "Kvalitetssäkring"
+msgid "Quality Assurance"
+msgstr "Laadunvarmistus"
+
+#:
+msgctxt "Nå policynivån/dialog med beslutsfattare"
+msgid "Reaching the policy level/dialogue with decision makers"
+msgstr "Politiikka/vuoropuhelu päätöksentekijöiden kanssa"
+
+#:
+msgctxt "Erkännande (ickeformellt och informellt lärande/uppskattning)"
+msgid "Recognition (non-formal and informal learning/credits)"
+msgstr "Osaamisen tunnustaminen (epävirallinen ja arkioppiminen / opintopisteet)"
+
+#:
+msgctxt "Forskning och innovation"
+msgid "Research and innovation"
+msgstr "Tutkimus ja innovaatio"
+
+#:
+msgctxt "Romer och/eller andra minoriteter"
+msgid "Romas and/or other minorities"
+msgstr "Romanit ja/tai muut vähemmistöt"
+
+#:
+msgctxt "Landsbygdsutveckling och urbanisering"
+msgid "Rural development and urbanisation"
+msgstr "Maaseudun kehittäminen ja kaupungistuminen"
+
+#:
+msgctxt "Undervisning och lärande av främmande språk"
+msgid "Teaching and learning of foreign languages"
+msgstr "Vieraiden kielten opetus ja oppiminen"
+
+#:
+msgctxt "Transport och mobilitet"
+msgid "Transport and mobility"
+msgstr "Kuljetus ja liikkuvuus"
+
+#:
+msgctxt "Ungdomar (deltagande, ungdomsarbete, ungdomsregler)"
+msgid "Youth (Participation, Youth Work, Youth Policy)"
+msgstr "Nuoriso (osallistuminen, nuorisotyö, nuorisopolitiikka)"
+
+#:
+msgctxt "Öppen undervisning och distansundervisning"
+msgid "Open and distance learning"
+msgstr "Avoin ja etäopiskelu"
+
+#:
+msgctxt "Rehabilitering efter konflikt/katastrof"
+msgid "Post-conflict/post-disaster rehabilitation"
+msgstr "Konfliktin- ja katastrofinjälkeinen olojen normalisoiminen"
+
+#:
+msgctxt "Entreprenöriellt lärande – entreprenörsutbildning"
+msgid "Entrepreneurial learning - entrepreneurship education"
+msgstr "Yrittäjämäinen oppiminen – yrittäjyyskasvatus"
+
+#:
+msgctxt "Kämpa mot diskriminering och intolerans, användning av narkotika/doping, matchfixning, våld inom idrotten"
+msgid "Fighting discrimination and intolerance, usage of drugs/doping, match fixing, violence in sports"
+msgstr "Syrjinnän ja suvaitsemattomuuden, huumeiden/dopingin, urheilutulosten manipuloinnin ja urheiluväkivallan torjuminen"
+
+#:
+msgctxt "Hälsosam livsstil, aktivt åldrande"
+msgid "Healthy lifestyle, active ageing"
+msgstr "Terveet elämäntavat, aktiivinen ikääntyminen"
+
+#:
+msgctxt "Gräsrotsidrott"
+msgid "Grassroots sports"
+msgstr "Ruohonjuuritason urheilu"
+
+#:
+msgctxt "Integration av flyktingar"
+msgid "Integration of refugees"
+msgstr "Pakolaisten kotoutuminen"
+
+#:
+msgctxt "Migrantfrågor"
+msgid "Migrants' issues"
+msgstr "Siirtolaisasiat"
+
+#:
+msgctxt "Civilt engagemang/ansvarsfullt medborgarskap"
+msgid "Civic engagement / responsible citizenship"
+msgstr "Kansalaisosallistuminen / vastuullinen kansalaisuus"
+
+#:
+msgctxt "Kulturarv/Europaåret för kulturarv"
+msgid "Cultural heritage/European Year of Cultural Heritage"
+msgstr "Kulttuuriperintö / kulttuuriperinnön eurooppalainen teemavuosi"
+
+#:
+msgctxt "Socialt entreprenörskap/social innovation"
+msgid "Social entrepreneurship / social innovation"
+msgstr "Sosiaalinen yrittäjyys / sosiaalinen innovaatio"
+
+#:
+msgctxt "Utbildningsinstitutionernas sociala/miljömässiga ansvar"
+msgid "Social/environmental responsibility of educational institutions"
+msgstr "Oppilaitosten sosiaalinen vastuu / ympäristövastuu"
+
+#:
+msgctxt "Visualiseringen visar hur EU-finansieringen avsedd för internationellt ungdomsarbete och utveckling av ungdomsarbete fördelar sig i Finland. Uppgifterna baserar sig besluten om projektbidrag fattade av det nationella kontoret för EU:s ungdomsprogram. Med hjälp av visualiseringen kan du också läsa mer om genomförda projekt."
+msgid "The visualisation shows how EU funding for international youth work and development of youth work is spread across Finland. The data is based on the grants awarded by the Finnish National Agency for the EU youth programmes. The visualisation will also help you find out more about projects carried out."
+msgstr "Visualisointi näyttää miten kansainväliseen nuorisotyöhön ja nuorisotyön kehittämiseen tarkoitettu EU-rahoitus jakautuu Suomessa. Tiedot pohjautuvat EU:n nuoriso-ohjelmien kansallisen toimiston tekemiin päätöksiin hanketuista. Visualisoinnin avulla voi myös tutustua tarkemmin toteutettuihin hankkeisiin."
+
+#:
+msgctxt "Projekt som beviljats EU-finansiering av Finlands nationella Erasmus+-programkontor 2014–2018. Erasmus+ för ungdomsområdet Youth in Action: https://www.oph.fi/sv/utveckling-och-internationalisering/erasmus/erasmus-ungdomssektorn-youth-action"
+msgid "Projects funded by the Finnish National Agency for the Erasmus+: Youth in Action Programme 2014-2018 through EU grants: www.oph.fi/erasmus-nuorisoalalle"
+msgstr "Suomen Erasmus+ -kansalliselta toimistolta EU-rahoitusta saaneet hankkeet 2014-2018. Erasmus+ nuorisoalalle Youth in Action: www.oph.fi/erasmus-nuorisoalalle"
+
+#:
+msgctxt "Ansvarig för sakinnehållet i visualiseringen Internationellt ungdomsarbete: Finlands nationella kontor för EU:s ungdomsprogram (Erasmus+ Youth in Action och Europeiska solidaritetskåren), kontaktuppgifter: youth@oph.fi"
+msgid "The information for this visualisation of international youth work is provided by the Finnish National Agency for the EU youth programmes (Erasmus+: Youth in Action and the European Solidarity Corps). Contact: youth@oph.fi."
+msgstr "Kansainvälisen nuorisotyö -visualisoinnin tietosisällöistä vastaa: EU:n nuoriso-ohjelmien (Erasmus+ Youth in Action ja Euroopan solidaarisuusjoukot) kansallinen toimisto, yhteystiedot: youth@oph.fi"
+
+#:
+msgctxt "Beviljad finansiering"
+msgid "Funding awarded"
+msgstr "Myönnetty rahoitus"
+
+#:
+msgctxt "Projektbidragets namn"
+msgid "Grant type"
+msgstr "Avustuksen nimi"
+
+#:
+msgctxt "Organisation"
+msgid "Organisation"
+msgstr "Taho"
+
+#:
+msgctxt "Delområde"
+msgid "Action"
+msgstr "Toiminto"
+
+#:
+msgctxt "Landskap"
+msgid "Region"
+msgstr "Maakunta"
+
+#:
+msgctxt "Kommun"
+msgid "Municipality"
+msgstr "Kunta"
+
+#:
+msgctxt "Typ"
+msgid "Type"
+msgstr "Tyyppi"
+
+#:
+msgctxt "Beviljat bidragsbelopp"
+msgid "Grant awarded"
+msgstr "Myönnetty tukisumma"
+
+#:
+msgctxt "Bläddra per delområde"
+msgid "View by action"
+msgstr "Tarkastele toiminnoittain"
+
+#:
+msgctxt "Bläddra per landskap"
+msgid "View by region"
+msgstr "Tarkastele maakunnittain"
+
+#:
+msgctxt "Bläddra per kommun"
+msgid "View by municipality"
+msgstr "Tarkastele kunnittain"
+
+#:
+msgctxt "Bläddra per år"
+msgid "View by year"
+msgstr "Tarkastele vuosittain"
+
+#:
+msgctxt "Bläddra per typ"
+msgid "View by type"
+msgstr "Tarkastele tyypeittäin"
+
+#:
+msgctxt "Bläddra per tema"
+msgid "View by theme"
+msgstr "Tarkastele teemoittain"
+
+#:
+msgctxt "Delområden som beviljats mest finansiering per kommun"
+msgid "Actions with most funding by municipality"
+msgstr "Eniten rahoitusta saaneet toiminnot kunnittain"
+
+#:
+msgctxt "Filtrera projekt"
+msgid "Filter projects"
+msgstr "Suodata hankkeita"
+
+#:
+msgctxt "Välj teman"
+msgid "Select themes"
+msgstr "Valitse teemat"
+
+#:
+msgctxt "Sök projekt på namn"
+msgid "Search projects by name"
+msgstr "Etsi hanketta nimeltä"
+
+#:
+msgctxt "Samhällsutveckling"
+msgid "Community development"
+msgstr "Yhteisöjen kehittäminen"
+
+#:
+msgctxt "Fysisk fostran och idrott"
+msgid "Physical education and sport"
+msgstr "Liikunta ja urheilu"
+
+#:
+msgctxt "Ungdomsarbete"
+msgid "Youth work"
+msgstr "Nuorisotyö"
+
+#:
+msgctxt "Medborgarskap och demokratiskt deltagande"
+msgid "Citizenship and democratic participation"
+msgstr "Kansalaisuus ja demokraattinen osallistuminen"
+
+#:
+msgctxt "Klimatåtgärder, miljö- och naturskydd"
+msgid "Climate action, environment and nature protection"
+msgstr "Ilmastotoimet, ympäristön- ja luonnonsuojelu"
+
+#:
+msgctxt "Kultur"
+msgid "Culture"
+msgstr "Kulttuuri"
+
+#:
+msgctxt "Förebyggande, beredskap och återhämtning i samband med katastrofer"
+msgid "Disaster prevention, preparedness and recovery"
+msgstr "Katastrofien ehkäisy, niihin valmistautuminen ja niistä selviytyminen"
+
+#:
+msgctxt "Utbildning"
+msgid "Education and training"
+msgstr "Koulutus"
+
+#:
+msgctxt "Anställbarhet och företagande"
+msgid "Employability and entrepreneurship"
+msgstr "Työllistyvyys ja yrittäjyys"
+
+#:
+msgctxt "Jämställdhet och likabehandling"
+msgid "Equality and non-discrimination"
+msgstr "Tasa-arvo ja syrjinnän torjunta"
+
+#:
+msgctxt "Europeisk identitet och europeiska värden"
+msgid "European identity and values"
+msgstr "Eurooppalainen identiteetti ja eurooppalaiset arvot"
+
+#:
+msgctxt "Mänskliga rättigheter"
+msgid "Human rights"
+msgstr "Ihmisoikeudet"
+
+#:
+msgctxt "Inklusion"
+msgid "Inclusion"
+msgstr "Sosiaalisen osallisuuden vahvistaminen"
+
+#:
+msgctxt "Mottagande och integration av medborgare från tredje länder"
+msgid "Reception and integration of third-country nationals"
+msgstr "Kolmansien maiden kansalaisten vastaanotto ja kotouttaminen"
+
+#:
+msgctxt "Landsbygdsutveckling och stadsförnyelse"
+msgid "Rural development and urban regeneration"
+msgstr "Maaseudun kehittäminen ja kaupunkialueiden elvyttäminen"
+
+#:
+msgctxt "Färdighetsutveckling"
+msgid "Skills development"
+msgstr "Taitojen kehittäminen"
+
+#:
+msgctxt "Sociala tjänster och välbefinnande"
+msgid "Social assistance and welfare"
+msgstr "Sosiaalihuolto"
+
+#:
+msgctxt "Territoriellt samarbete och sammanhållning"
+msgid "Territorial cooperation and cohesion"
+msgstr "Alueellinen yhteistyö ja yhteenkuuluvuus"
+
+#:
+msgctxt "Transport och rörlighet"
+msgid "Transport and mobility"
+msgstr "Liikenne ja liikkuminen"
+
+#:
+msgctxt "Jord- och skogsbruk, fiske"
+msgid "Agriculture, forestry and fisheries"
+msgstr "Maa-, metsä- ja kalatalous"
+
+#:
+msgctxt "Ackreditering, certifiering eller kvalificeringsmyndighet"
+msgid "Accreditation, certification or qualification body"
+msgstr "Akkreditointi-, sertifiointi- tai tutkintoviranomainen"
+
+#:
+msgctxt "Konstorganisation"
+msgid "Art association"
+msgstr "Taidejärjestö"
+
+#:
+msgctxt "Icke-statlig organisation"
+msgid "Civil Society Organisation"
+msgstr "Kansalaisjärjestö"
+
+#:
+msgctxt "Kulturaktör"
+msgid "Cultural operators"
+msgstr "Kulttuuritoimija"
+
+#:
+msgctxt "Europeisk icke-statlig organisation"
+msgid "European NGO"
+msgstr "Eurooppalainen kansalaisjärjestö"
+
+#:
+msgctxt "Europeisk eller internationell offentlig organisation"
+msgid "European or international public body"
+msgstr "Eurooppalainen tai kansainvälinen julkisyhteisö"
+
+#:
+msgctxt "Stiftelse"
+msgid "Foundation"
+msgstr "Säätiö"
+
+#:
+msgctxt "Informell grupp av ungdomar"
+msgid "Group of young people active in youth work"
+msgstr "Nuorten vapaa ryhmä"
+
+#:
+msgctxt "Högskola"
+msgid "Higher education institution (tertiary level)"
+msgstr "Korkeakoulu"
+
+#:
+msgctxt "Internationell myndighet eller organisation"
+msgid "International agencies and organisations"
+msgstr "Kansainvälinen virasto tai järjestö"
+
+#:
+msgctxt "Internationell organisation under offentlig rätt"
+msgid "International organisation under public law"
+msgstr "Julkisoikeudellinen kansainvälinen organisaatio"
+
+#:
+msgctxt "Litteraturstiftelse"
+msgid "Literature Foundation"
+msgstr "Kirjallisuussäätiö"
+
+#:
+msgctxt "Lokal myndighet"
+msgid "Local Public body"
+msgstr "Paikallisviranomainen"
+
+#:
+msgctxt "Offentlig myndighet"
+msgid "National Public body"
+msgstr "Kansallinen viranomainen"
+
+#:
+msgctxt "Nationella ungdomsrådet"
+msgid "National Youth Council"
+msgstr "Kansallinen nuorisokomitea"
+
+#:
+msgctxt "Icke-statlig organisation/förening"
+msgid "Non-governmental organisation/association"
+msgstr "Kansalaisjärjestö/yhdistys"
+
+#:
+msgctxt "Icke vinstdrivande kulturorganisation"
+msgid "Non-Profit making cultural organizations"
+msgstr "Voittoa tavoittelematon kulttuurijärjestö"
+
+#:
+msgctxt "Övrig"
+msgid "Other"
+msgstr "Muu"
+
+#:
+msgctxt "Offentlig tjänsteleverantör"
+msgid "Public service provider"
+msgstr "Julkisen palvelun tarjoaja"
+
+#:
+msgctxt "Offentligt finansierad kulturorganisation"
+msgid "Publically funded cultural organizations"
+msgstr "Julkisrahoitteinen kulttuurialan organisaatio"
+
+#:
+msgctxt "Regional offentlig myndighet"
+msgid "Regional Public body"
+msgstr "Alueellinen viranomainen"
+
+#:
+msgctxt "Forskningsinstitut/centrum"
+msgid "Research Institute/Centre"
+msgstr "Tutkimuslaitos/Tutkimuskeskus"
+
+#:
+msgctxt "Organisation som erbjuder vuxenutbildning"
+msgid "School/Institute/Educational centre – Adult education"
+msgstr "Aikuiskoulutusta tarjoava organisaatio"
+
+#:
+msgctxt "Daghem eller grundskola"
+msgid "School/Institute/Educational centre – General education (pre-primary level)"
+msgstr "Päiväkoti tai peruskoulu"
+
+#:
+msgctxt "Grundskola"
+msgid "School/Institute/Educational centre – General education (primary level)"
+msgstr "Peruskoulu"
+
+#:
+msgctxt "Gymnasium"
+msgid "School/Institute/Educational centre – General education (secondary level)"
+msgstr "Lukio"
+
+#:
+msgctxt "Yrkesläroanstalt (andra stadiet)"
+msgid "School/Institute/Educational centre – Vocational Training (secondary level)"
+msgstr "Ammatillinen oppilaitos"
+
+#:
+msgctxt "Yrkesläröanstalt (tredje stadiet)"
+msgid "School/Institute/Educational centre – Vocational Training (tertiary level)"
+msgstr "Ammatillinen oppilaitos (kolmas aste)"
+
+#:
+msgid "School/Institute/Educational centre – General education (basic education)"
+msgstr "Peruskoulu"
+
+#:
+msgctxt "Små och medelstora företag SMF"
+msgid "Small and medium sized enterprise"
+msgstr "PK-yritys"
+
+#:
+msgctxt "Små och medelstora företag SMF"
+msgid "Enterprise"
+msgstr "Yritys"
+
+#:
+msgctxt "Arbetsmarknadspart eller annan företrädare för arbetslivet"
+msgid "Social partner or other representative of working life"
+msgstr "Työmarkkinajärjestö tai muu työelämän edustaja"
+
+#:
+msgctxt "Idrottsförening"
+msgid "Sport club"
+msgstr "Urheiluseura"
+
+#:
+msgctxt "Ungdomsorganisation"
+msgid "Youth organisation"
+msgstr "Nuorisojärjestö"
+
+#:
+msgid "Adult education staff mobility (KA104)"
+msgstr "Aikuiskoulutuksen liikkuvuus (KA104)"
+
+#:
+msgid "Strategic Partnerships for adult education (KA204)"
+msgstr "Aikuiskoulutuksen strateginen kumppanuus (KA204)"
+
+#:
+msgid "VET learner and staff mobility (KA102)"
+msgstr "Ammatillisen koulutuksen liikkuvuus (KA102)"
+
+#:
+msgid "VET learner and staff mobility with VET mobility charter (KA116)"
+msgstr "Ammatillisen koulutuksen akkreditoitu liikkuvuus (KA116)"
+
+#:
+msgid "Strategic Partnerships for vocational education and training (KA202)"
+msgstr "Ammatillisen koulutuksen strateginen kumppanuus (KA202)"
+
+#:
+msgid "Higher education student and staff mobility (KA103)"
+msgstr "Korkeakoulutuksen eurooppalainen liikkuvuus (KA103)"
+
+#:
+msgid "Higher education student and staff mobility within programme countries (KA103)"
+msgstr "Korkeakoulutuksen eurooppalainen liikkuvuus (KA103)"
+
+#:
+msgid "Strategic Partnerships for higher education (KA203)"
+msgstr "Korkeakoulutuksen strateginen kumppanuus (KA203)"
+
+#:
+msgid "Youth mobility (KA105)"
+msgstr "Nuorisovaihdot, Nuorisotyöntekijöiden liikkuvuus, Vapaaehtoispalvelu (2014-2017) (KA105)"
+
+#:
+msgid "Volunteering Projects (KA125)"
+msgstr "Vapaaehtoispalvelu (KA125)"
+
+msgid "Volunteering Projects (KA125/KA135)"
+msgstr "Vapaaehtoispalvelu (KA125/KA135)"
+
+#:
+msgid "Strategic EVS (KA135)"
+msgstr "Vapaaehtoispalvelu (KA125)"
+
+#:
+msgid "Strategic Partnerships for youth (KA205)"
+msgstr "Nuorisoalan strateginen kumppanuus (KA205)"
+
+#:
+msgid "Dialogue between young people and policy makers (KA347)"
+msgstr "Nuorison ja päättäjien välinen vuoropuhelu (KA347)"
+
+#:
+msgid "Youth Dialogue Projects (KA347)"
+msgstr "Nuorison ja päättäjien välinen vuoropuhelu (KA347)"
+
+#:
+msgid "Strategic Partnerships addressing more than one field (KA200)"
+msgstr "Sektorien välinen strateginen kumppanuus (KA200)"
+
+#:
+msgid "School education staff mobility (KA101)"
+msgstr "Yleissivistävän koulutuksen liikkuvuus (KA101)"
+
+#:
+msgid "Higher education student and staff mobility between Programme and Partner Countries (KA107)"
+msgstr "Korkeakoulutuksen globaaliliikkuvuus (KA107)"
+
+#:
+msgid "Higher education student and staff mobility within programme countries (KA107)"
+msgstr "Korkeakoulutuksen globaaliliikkuvuus (KA107)"
+
+#:
+msgid "Strategic Partnerships for school education (KA201)"
+msgstr "Yleissivistävän sektorin strateginen kumppanuus (KA201)"
+
+#:
+msgid "Strategic Partnerships for Schools Only (KA219)"
+msgstr "Koulujen välinen strateginen kumppanuus (KA219)"
+
+#:
+msgid "Partnerships for Digital Education Readiness (KA226)"
+msgstr "Strateginen kumppanuus digitaalisen koulutuksen valmiuksen edistämiseksi (KA226)"
+
+#:
+msgid "Partnerships for Creativity (KA227)"
+msgstr "Luovuuden edistämiseen liittyvä kumppani (KA227)"
+
+#:
+msgid "School Exchange Partnerships (KA229)"
+msgstr "Koulujen välinen yhteistyö (KA229)"
+
+msgid "Partnerships for Digital Education Readiness for school education (KA226-SCH)"
+msgstr "Yleissivistävän koulutuksen digitaalisia valmiuksia edistävät kumppanuudet (KA226-SCH)"
+
+msgid "Partnerships for Digital Education Readiness  for vocational education and training (KA226-VET)"
+msgstr "Ammatillisen koulutuksen digitaalisia valmiuksia edistävät kumppanuudet (KA226-VET)"
+
+msgid "Partnerships for Digital Education Readiness for higher education (KA226-HE)"
+msgstr "Korkeakoulutuksen digitaalisia valmiuksia edistävät kumppanuudet (KA226-HE)"
+
+msgid "Partnerships for Creativity for school education (KA227-SCH)"
+msgstr "Yleissivistävän koulutuksen luovuutta edistävät kumppanuudet (KA227-SCH)"
+
+msgid "Partnerships for Creativity for adult education (KA227-ADU)"
+msgstr "Aikuiskoulutuksen luovuutta edistävät kumppanuudet (KA227-ADU)"
+
+msgid "Partnerships for Creativity for youth (KA227-YOU)"
+msgstr "Nuorisoalan luovuutta edistävät kumppanuudet (KA227-YOU)"
+
+msgid "Erasmus accreditation in adult education (KA120-ADU)"
+msgstr "Aikuiskoulutuksen Erasmus+ -akkreditointi (KA120-ADU)"
+
+msgid "Accredited projects for mobility of learners and staff in adult education (KA121-ADU)"
+msgstr "Aikuiskoulutuksen akkreditoitu liikkuvuus (KA121-ADU)"
+
+msgid "Accredited projects for mobility of learners and staff in adult education  (KA121-ADU)"
+msgstr "Aikuiskoulutuksen akkreditoitu liikkuvuus (KA121-ADU)"
+
+msgid "Short-term projects for mobility of learners and staff in adult education (KA122-ADU)"
+msgstr "Aikuiskoulutuksen lyhytkestoinen liikkuvuus (KA122-ADU)"
+
+msgid "Small-scale partnerships in adult education (KA210-ADU)"
+msgstr "Aikuiskoulutuksen pienimuotoinen kumppanuushanke (KA210-ADU)"
+
+msgid "Small-scale partnerships  in adult education (KA210-ADU)"
+msgstr "Aikuiskoulutuksen pienimuotoinen kumppanuushanke (KA210-ADU)"
+
+msgid "Cooperation partnerships in adult education (KA220-ADU)"
+msgstr "Aikuiskoulutuksen kumppanuushanke (KA220-ADU)"
+
+msgid "Erasmus accreditation in vocational education and training (KA120-VET)"
+msgstr "Ammatillisen koulutuksen Erasmus+ -akkreditointi (KA120-VET)"
+
+msgid "Accredited projects for mobility of learners and staff in vocational education and training (KA121-VET)"
+msgstr "Ammatillisen koulutuksen akkreditoitu liikkuvuus (KA121-VET)"
+
+msgid "Short-term projects for mobility of learners and staff in vocational education (KA122-VET)"
+msgstr "Ammatillisen koulutuksen lyhytkestoinen liikkuvuus (KA122-VET)"
+
+msgid "Short-term projects for mobility of learners and staff in vocational education and training (KA122-VET)"
+msgstr "Ammatillisen koulutuksen lyhytkestoinen liikkuvuus (KA122-VET)"
+
+msgid "Small-scale partnerships in vocational education and training (KA210-VET)"
+msgstr "Ammatillisen koulutuksen pienimuotoinen kumppanuushanke (KA210-VET)"
+
+msgid "Cooperation partnerships in vocational education and training (KA220-VET)"
+msgstr "Ammatillisen koulutuksen kumppanuushanke (KA220-VET)"
+
+msgid "Mobility of higher education students and staff supported by internal policy funds (KA131-HED)"
+msgstr "Korkeakoulutuksen eurooppalainen liikkuvuus (KA131-HED)"
+
+msgid "Cooperation partnerships in higher education (KA220-HED)"
+msgstr "Korkeakoulutuksen kumppanuushanke (KA220-HED)"
+
+msgid "International mobility supported by external policy funds (KA171-HED)"
+msgstr "Korkeakoulutuksen globaaliliikkuvuus (KA171-HED)"
+
+msgid "Mobility of higher education students and staff supported by external policy funds (KA171-HED)"
+msgstr "Korkeakoulutuksen globaaliliikkuvuus (KA171-HED)"
+
+msgid "Erasmus accreditation in school education (KA120-SCH)"
+msgstr "Yleissivistävän koulutuksen Erasmus+ -akkreditointi (KA120-SCH)"
+
+msgid "Accredited projects for mobility of learners and staff in school education (KA121-SCH)"
+msgstr "Yleissivistävän koulutuksen akkreditoitu liikkuvuus (KA121-SCH)"
+
+msgid "Short-term projects for mobility of learners and staff in school education (KA122-SCH)"
+msgstr "Yleissivistävän koulutuksen lyhytkestoinen liikkuvuus (KA122-SCH)"
+
+msgid "Small-scale partnerships in school education (KA210-SCH)"
+msgstr "Yleissivistävän koulutuksen pienimuotoinen kumppanuushanke (KA210-SCH)"
+
+msgid "Cooperation partnerships in school education (KA220-SCH)"
+msgstr "Yleissivistävän koulutuksen kumppanuushanke (KA220-SCH)"
+
+msgid "Accredited projects for youth mobility (KA151-YOU)"
+msgstr "Nuorten akkreditoitu liikkuvuus (KA151-YOU)"
+
+msgid "Mobility of young people (KA152-YOU)"
+msgstr "Nuorten liikkuvuus (KA152-YOU)"
+
+msgid "Mobility  of young people (KA152-YOU)"
+msgstr "Nuorten liikkuvuus (KA152-YOU)"
+
+msgid "Mobility of young people (KA152-YOU) "
+msgstr "Nuorten liikkuvuus (KA152-YOU)"
+
+msgid "Mobility of youth workers (KA153-YOU)"
+msgstr "Nuorisotyöntekijöiden liikkuvuus (KA153-YOU)"
+
+msgid "Youth participation activities (KA154-YOU)"
+msgstr "Nuorten osallistumishanke (KA154-YOU)"
+
+msgid "Small-scale partnerships in youth (KA210-YOU)"
+msgstr "Nuorisoalan pienimuotoinen kumppanuuhanke (KA210-YOU)"
+
+msgid "Cooperation partnerships in youth (KA220-YOU)"
+msgstr "Nuorisoalan kumppanuushanke (KA220-YOU)"
+
+msgid "School/Institute/Educational centre - Adult education"
+msgstr "Aikuiskoulutusorganisaatio"
+
+msgid "DiscoverEU inclusion action (KA155-YOU)"
+msgstr "DiscoverEU-osallisuustoimi (KA155-YOU)"
+
+msgid "Public Local body"
+msgstr "Paikallisviranomainen"
+
+msgid "other"
+msgstr "Muu"
+
+msgid "Mobility of Sport Coaches and Staff (KA182-SPO)"
+msgstr "Liikunta- ja urheilualan urheiluhenkilöstön liikkuvuus (KA182-SPO)"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
