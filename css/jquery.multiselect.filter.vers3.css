@@ -1,0 +1,15 @@
+.ui-multiselect-hasfilter ul { position:relative; top:2px }
+.ui-multiselect-filter { float:left; margin-right:10px; font-size:1em; width:100%; }
+.ui-multiselect-header .ui-multiselect-filter input {
+    width:95%;
+    font-size:1em;
+    margin:2px;
+    /*height:15px;*/
+    padding:1px;
+    border:1px solid #aaa;
+    -webkit-appearance:textfield;
+    border-radius: 1px;
+    -webkit-box-sizing:content-box;
+
+}
+.ui-multiselect-excluded {display: none}
