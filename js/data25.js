@@ -134,7 +134,7 @@ var origmultiHeight;
         } else {
        //     url = 'data/erasmus221222.csv';
        //     url = 'data/erasmus170724_kopio.csv';
-            url = 'data/erasmus170724.csv';
+            url = 'data/erasmus220925.csv';
             map = 'data/kuntarajat2021.geojson';
             maakuntamap = "data/maakuntarajat2021.geojson";
 
