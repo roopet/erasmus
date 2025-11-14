@@ -244,28 +244,46 @@ var origmultiHeight;
                         project.ColSel_Teema = project["TopicDescriptions"] || project["Topic Name"] || ""
 
                     } else {
-                        console.log(project)
-                        console.log(project["Topic Code"])
-                        if (project["Topic Code"] == "#PUUTTUU" || project["Topic Code"] == "#PUUTTUU!" || project["Topic Code"] == "#NIMI?") {
-                            project.ColSel_Teema = ""
-                        } else if (project["Topic Code"] == "#N/A") {
-                            project.ColSel_Teema = ""
-                        } else if (project["Topic Code"] == "") {
-                            project.ColSel_Teema = ""
-                        } else if (project["Topic Code"].includes("_")) {
-                            var parru = project["Topic Code"].split("_");
-                            var stringi = [];
-                            for (var ff in parru) {
-                                if(typeof parru[ff]=== "string")
-                                    stringi.push(teemat[parru[ff]])
+    // Normalize Topic Code safely
+    var rawTopicCode = project["Topic Code"];
+    var topicCode = "";
 
-                            }
-                            project.ColSel_Teema = stringi.join('_')
-                        } else {
-                            project.ColSel_Teema = teemat[project["Topic Code"]]
-                        }
+    if (typeof rawTopicCode === "string") {
+        topicCode = rawTopicCode.trim();
+    }
 
-                    }
+    console.log(project);
+    console.log("Topic Code raw:", rawTopicCode, "normalized:", topicCode);
+
+    // Treat empty, undefined, or special error markers as "no theme"
+    if (
+        !topicCode ||                                      // "", null, undefined after normalization
+        topicCode === "#PUUTTUU" ||
+        topicCode === "#PUUTTUU!" ||
+        topicCode === "#NIMI?" ||
+        topicCode === "#N/A"
+    ) {
+        project.ColSel_Teema = "";
+
+    } else if (topicCode.indexOf("_") !== -1) {
+        // Multiple topic codes separated by "_"
+        var parru = topicCode.split("_");
+        var stringi = [];
+
+        for (var i = 0; i < parru.length; i++) {
+            var code = parru[i];
+            if (typeof code === "string" && teemat[code]) {
+                stringi.push(teemat[code]);
+            }
+        }
+
+        project.ColSel_Teema = stringi.join("_");
+
+    } else {
+        // Single topic code
+        project.ColSel_Teema = teemat[topicCode] || "";
+    }
+}
 
 
 
