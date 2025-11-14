@@ -244,8 +244,8 @@ var origmultiHeight;
                         project.ColSel_Teema = project["TopicDescriptions"] || project["Topic Name"] || ""
 
                     } else {
-                    //    console.log(teemat)
-                    //    console.log(project["Topic Code"])
+                        console.log(project)
+                        console.log(project["Topic Code"])
                         if (project["Topic Code"] == "#PUUTTUU" || project["Topic Code"] == "#PUUTTUU!" || project["Topic Code"] == "#NIMI?") {
                             project.ColSel_Teema = ""
                         } else if (project["Topic Code"] == "#N/A") {
