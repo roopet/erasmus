@@ -244,44 +244,45 @@ var origmultiHeight;
                         project.ColSel_Teema = project["TopicDescriptions"] || project["Topic Name"] || ""
 
                     } else {
-    // Normalize Topic Code safely
-    var rawTopicCode = project["Topic Code"];
-    var topicCode = "";
-
-    if (typeof rawTopicCode === "string") {
-        topicCode = rawTopicCode.trim();
-    }
-
     console.log(project);
-    console.log("Topic Code raw:", rawTopicCode, "normalized:", topicCode);
+    console.log(project["Topic Code"]);
 
-    // Treat empty, undefined, or special error markers as "no theme"
-    if (
-        !topicCode ||                                      // "", null, undefined after normalization
-        topicCode === "#PUUTTUU" ||
-        topicCode === "#PUUTTUU!" ||
-        topicCode === "#NIMI?" ||
-        topicCode === "#N/A"
+    // 1) Completely missing
+    if (project["Topic Code"] == null) { // catches null and undefined
+        project.ColSel_Teema = "";
+
+    // 2) Not a string at all (number, object, etc.)
+    } else if (typeof project["Topic Code"] !== "string") {
+        project.ColSel_Teema = "";
+
+    // 3) Empty or only whitespace
+    } else if (project["Topic Code"].trim() === "") {
+        project.ColSel_Teema = "";
+
+    // 4) All your special error markers
+    } else if (
+        project["Topic Code"] == "#PUUTTUU" ||
+        project["Topic Code"] == "#PUUTTUU!" ||
+        project["Topic Code"] == "#NIMI?" ||
+        project["Topic Code"] == "#N/A"
     ) {
         project.ColSel_Teema = "";
 
-    } else if (topicCode.indexOf("_") !== -1) {
-        // Multiple topic codes separated by "_"
-        var parru = topicCode.split("_");
+    // 5) Multiple codes separated by "_"
+    } else if (project["Topic Code"].includes("_")) {
+        var parru = project["Topic Code"].split("_");
         var stringi = [];
-
-        for (var i = 0; i < parru.length; i++) {
-            var code = parru[i];
-            if (typeof code === "string" && teemat[code]) {
-                stringi.push(teemat[code]);
+        for (var ff in parru) {
+            if (typeof parru[ff] === "string" && teemat[parru[ff]]) {
+                stringi.push(teemat[parru[ff]]);
             }
         }
-
         project.ColSel_Teema = stringi.join("_");
 
+    // 6) Single code
     } else {
-        // Single topic code
-        project.ColSel_Teema = teemat[topicCode] || "";
+        // fallback to "" if code not found in teemat
+        project.ColSel_Teema = teemat[project["Topic Code"]] || "";
     }
 }
 
