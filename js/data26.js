@@ -267,6 +267,7 @@ var origmultiHeight;
         project["Topic Code"] == "#N/A"
     ) {
         project.ColSel_Teema = "";
+        alert(123)
 
     // 5) Multiple codes separated by "_"
     } else if (project["Topic Code"].includes("_")) {
